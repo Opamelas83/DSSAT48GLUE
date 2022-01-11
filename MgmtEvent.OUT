@@ -1,0 +1,419 @@
+*MANAGEMENT OPERATIONS EVENT SUMMARY
+
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:05
+!---------------------------------------------------------------------------------------------
+@RUN Date........  DOY    DAS    DAP  CR  Stage         Operation       Quantities
+!---------------------------------------------------------------------------------------------
+   1 JUN 18, 2019  169      1      0  CS                Planting       
+   1 NOV 18, 2019  322    154    153  CS                Irrigation        27.1 mm
+   1 NOV 29, 2019  333    165    164  CS                Irrigation        25.7 mm
+   1 DEC  8, 2019  342    174    173  CS                Irrigation        26.6 mm
+   1 DEC 17, 2019  351    183    182  CS                Irrigation        26.5 mm
+   1 DEC 26, 2019  360    192    191  CS                Irrigation        25.8 mm
+   1 JAN  5, 2020  005    202    201  CS                Irrigation        27.3 mm
+   1 JAN 14, 2020  014    211    210  CS                Irrigation        26.0 mm
+   1 JAN 25, 2020  025    222    221  CS                Irrigation        27.6 mm
+   1 FEB  4, 2020  035    232    231  CS                Irrigation        26.4 mm
+   1 FEB 15, 2020  046    243    242  CS                Irrigation        26.0 mm
+   1 FEB 26, 2020  057    254    253  CS                Irrigation        26.6 mm
+   1 MAR  8, 2020  068    265    264  CS                Irrigation        26.0 mm
+   1 MAR 19, 2020  079    276    275  CS                Irrigation        25.3 mm
+   1 APR 24, 2020  115    312    311  CS                Irrigation        25.8 mm
+   1 JUL 27, 2020  209    406    405  CS                Harvest Yield   17836. kg/ha
+ 
+
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:06
+!---------------------------------------------------------------------------------------------
+@RUN Date........  DOY    DAS    DAP  CR  Stage         Operation       Quantities
+!---------------------------------------------------------------------------------------------
+   2 JUN 18, 2019  169      1      0  CS                Planting       
+   2 NOV 18, 2019  322    154    153  CS                Irrigation        27.1 mm
+   2 NOV 29, 2019  333    165    164  CS                Irrigation        25.7 mm
+   2 DEC  8, 2019  342    174    173  CS                Irrigation        26.6 mm
+   2 DEC 17, 2019  351    183    182  CS                Irrigation        26.5 mm
+   2 DEC 26, 2019  360    192    191  CS                Irrigation        25.8 mm
+   2 JAN  5, 2020  005    202    201  CS                Irrigation        27.3 mm
+   2 JAN 14, 2020  014    211    210  CS                Irrigation        26.0 mm
+   2 JAN 25, 2020  025    222    221  CS                Irrigation        27.6 mm
+   2 FEB  4, 2020  035    232    231  CS                Irrigation        26.4 mm
+   2 FEB 15, 2020  046    243    242  CS                Irrigation        26.0 mm
+   2 FEB 26, 2020  057    254    253  CS                Irrigation        26.6 mm
+   2 MAR  8, 2020  068    265    264  CS                Irrigation        26.0 mm
+   2 MAR 19, 2020  079    276    275  CS                Irrigation        25.3 mm
+   2 APR 24, 2020  115    312    311  CS                Irrigation        25.8 mm
+   2 JUL 27, 2020  209    406    405  CS                Harvest Yield   17836. kg/ha
+ 
+
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:06
+!---------------------------------------------------------------------------------------------
+@RUN Date........  DOY    DAS    DAP  CR  Stage         Operation       Quantities
+!---------------------------------------------------------------------------------------------
+   3 JUN 18, 2019  169      1      0  CS                Planting       
+   3 NOV 18, 2019  322    154    153  CS                Irrigation        27.1 mm
+   3 NOV 29, 2019  333    165    164  CS                Irrigation        25.7 mm
+   3 DEC  8, 2019  342    174    173  CS                Irrigation        26.6 mm
+   3 DEC 17, 2019  351    183    182  CS                Irrigation        26.5 mm
+   3 DEC 26, 2019  360    192    191  CS                Irrigation        25.8 mm
+   3 JAN  5, 2020  005    202    201  CS                Irrigation        27.3 mm
+   3 JAN 14, 2020  014    211    210  CS                Irrigation        26.0 mm
+   3 JAN 25, 2020  025    222    221  CS                Irrigation        27.6 mm
+   3 FEB  4, 2020  035    232    231  CS                Irrigation        26.4 mm
+   3 FEB 15, 2020  046    243    242  CS                Irrigation        26.0 mm
+   3 FEB 26, 2020  057    254    253  CS                Irrigation        26.6 mm
+   3 MAR  8, 2020  068    265    264  CS                Irrigation        26.0 mm
+   3 MAR 19, 2020  079    276    275  CS                Irrigation        25.3 mm
+   3 APR 24, 2020  115    312    311  CS                Irrigation        25.8 mm
+   3 JUL 27, 2020  209    406    405  CS                Harvest Yield   17836. kg/ha
+ 
+
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:06
+!---------------------------------------------------------------------------------------------
+@RUN Date........  DOY    DAS    DAP  CR  Stage         Operation       Quantities
+!---------------------------------------------------------------------------------------------
+   4 JUN 18, 2019  169      1      0  CS                Planting       
+   4 NOV 18, 2019  322    154    153  CS                Irrigation        27.1 mm
+   4 NOV 29, 2019  333    165    164  CS                Irrigation        25.7 mm
+   4 DEC  8, 2019  342    174    173  CS                Irrigation        26.6 mm
+   4 DEC 17, 2019  351    183    182  CS                Irrigation        26.5 mm
+   4 DEC 26, 2019  360    192    191  CS                Irrigation        25.8 mm
+   4 JAN  5, 2020  005    202    201  CS                Irrigation        27.3 mm
+   4 JAN 14, 2020  014    211    210  CS                Irrigation        26.0 mm
+   4 JAN 25, 2020  025    222    221  CS                Irrigation        27.6 mm
+   4 FEB  4, 2020  035    232    231  CS                Irrigation        26.4 mm
+   4 FEB 15, 2020  046    243    242  CS                Irrigation        26.0 mm
+   4 FEB 26, 2020  057    254    253  CS                Irrigation        26.6 mm
+   4 MAR  8, 2020  068    265    264  CS                Irrigation        26.0 mm
+   4 MAR 19, 2020  079    276    275  CS                Irrigation        25.3 mm
+   4 APR 24, 2020  115    312    311  CS                Irrigation        25.8 mm
+   4 JUL 27, 2020  209    406    405  CS                Harvest Yield   17836. kg/ha
+ 
+
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:06
+!---------------------------------------------------------------------------------------------
+@RUN Date........  DOY    DAS    DAP  CR  Stage         Operation       Quantities
+!---------------------------------------------------------------------------------------------
+   5 JUN 18, 2019  169      1      0  CS                Planting       
+   5 NOV 18, 2019  322    154    153  CS                Irrigation        27.1 mm
+   5 NOV 29, 2019  333    165    164  CS                Irrigation        25.7 mm
+   5 DEC  8, 2019  342    174    173  CS                Irrigation        26.6 mm
+   5 DEC 17, 2019  351    183    182  CS                Irrigation        26.5 mm
+   5 DEC 26, 2019  360    192    191  CS                Irrigation        25.8 mm
+   5 JAN  5, 2020  005    202    201  CS                Irrigation        27.3 mm
+   5 JAN 14, 2020  014    211    210  CS                Irrigation        26.0 mm
+   5 JAN 25, 2020  025    222    221  CS                Irrigation        27.6 mm
+   5 FEB  4, 2020  035    232    231  CS                Irrigation        26.4 mm
+   5 FEB 15, 2020  046    243    242  CS                Irrigation        26.0 mm
+   5 FEB 26, 2020  057    254    253  CS                Irrigation        26.6 mm
+   5 MAR  8, 2020  068    265    264  CS                Irrigation        26.0 mm
+   5 MAR 19, 2020  079    276    275  CS                Irrigation        25.3 mm
+   5 APR 24, 2020  115    312    311  CS                Irrigation        25.8 mm
+   5 JUL 27, 2020  209    406    405  CS                Harvest Yield   17836. kg/ha
+ 
+
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:07
+!---------------------------------------------------------------------------------------------
+@RUN Date........  DOY    DAS    DAP  CR  Stage         Operation       Quantities
+!---------------------------------------------------------------------------------------------
+   6 JUN 18, 2019  169      1      0  CS                Planting       
+   6 NOV 18, 2019  322    154    153  CS                Irrigation        27.1 mm
+   6 NOV 29, 2019  333    165    164  CS                Irrigation        25.7 mm
+   6 DEC  8, 2019  342    174    173  CS                Irrigation        26.6 mm
+   6 DEC 17, 2019  351    183    182  CS                Irrigation        26.5 mm
+   6 DEC 26, 2019  360    192    191  CS                Irrigation        25.8 mm
+   6 JAN  5, 2020  005    202    201  CS                Irrigation        27.3 mm
+   6 JAN 14, 2020  014    211    210  CS                Irrigation        26.0 mm
+   6 JAN 25, 2020  025    222    221  CS                Irrigation        27.6 mm
+   6 FEB  4, 2020  035    232    231  CS                Irrigation        26.4 mm
+   6 FEB 15, 2020  046    243    242  CS                Irrigation        26.0 mm
+   6 FEB 26, 2020  057    254    253  CS                Irrigation        26.6 mm
+   6 MAR  8, 2020  068    265    264  CS                Irrigation        26.0 mm
+   6 MAR 19, 2020  079    276    275  CS                Irrigation        25.3 mm
+   6 APR 24, 2020  115    312    311  CS                Irrigation        25.8 mm
+   6 JUL 27, 2020  209    406    405  CS                Harvest Yield   17836. kg/ha
+ 
+
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:07
+!---------------------------------------------------------------------------------------------
+@RUN Date........  DOY    DAS    DAP  CR  Stage         Operation       Quantities
+!---------------------------------------------------------------------------------------------
+   7 JUN 18, 2019  169      1      0  CS                Planting       
+   7 NOV 18, 2019  322    154    153  CS                Irrigation        27.1 mm
+   7 NOV 29, 2019  333    165    164  CS                Irrigation        25.7 mm
+   7 DEC  8, 2019  342    174    173  CS                Irrigation        26.6 mm
+   7 DEC 17, 2019  351    183    182  CS                Irrigation        26.5 mm
+   7 DEC 26, 2019  360    192    191  CS                Irrigation        25.8 mm
+   7 JAN  5, 2020  005    202    201  CS                Irrigation        27.3 mm
+   7 JAN 14, 2020  014    211    210  CS                Irrigation        26.0 mm
+   7 JAN 25, 2020  025    222    221  CS                Irrigation        27.6 mm
+   7 FEB  4, 2020  035    232    231  CS                Irrigation        26.4 mm
+   7 FEB 15, 2020  046    243    242  CS                Irrigation        26.0 mm
+   7 FEB 26, 2020  057    254    253  CS                Irrigation        26.6 mm
+   7 MAR  8, 2020  068    265    264  CS                Irrigation        26.0 mm
+   7 MAR 19, 2020  079    276    275  CS                Irrigation        25.3 mm
+   7 APR 24, 2020  115    312    311  CS                Irrigation        25.8 mm
+   7 JUL 27, 2020  209    406    405  CS                Harvest Yield   17836. kg/ha
+ 
+
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:07
+!---------------------------------------------------------------------------------------------
+@RUN Date........  DOY    DAS    DAP  CR  Stage         Operation       Quantities
+!---------------------------------------------------------------------------------------------
+   8 JUN 18, 2019  169      1      0  CS                Planting       
+   8 NOV 18, 2019  322    154    153  CS                Irrigation        27.1 mm
+   8 NOV 29, 2019  333    165    164  CS                Irrigation        25.7 mm
+   8 DEC  8, 2019  342    174    173  CS                Irrigation        26.6 mm
+   8 DEC 17, 2019  351    183    182  CS                Irrigation        26.5 mm
+   8 DEC 26, 2019  360    192    191  CS                Irrigation        25.8 mm
+   8 JAN  5, 2020  005    202    201  CS                Irrigation        27.3 mm
+   8 JAN 14, 2020  014    211    210  CS                Irrigation        26.0 mm
+   8 JAN 25, 2020  025    222    221  CS                Irrigation        27.6 mm
+   8 FEB  4, 2020  035    232    231  CS                Irrigation        26.4 mm
+   8 FEB 15, 2020  046    243    242  CS                Irrigation        26.0 mm
+   8 FEB 26, 2020  057    254    253  CS                Irrigation        26.6 mm
+   8 MAR  8, 2020  068    265    264  CS                Irrigation        26.0 mm
+   8 MAR 19, 2020  079    276    275  CS                Irrigation        25.3 mm
+   8 APR 24, 2020  115    312    311  CS                Irrigation        25.8 mm
+   8 JUL 27, 2020  209    406    405  CS                Harvest Yield   17836. kg/ha
+ 
+
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:07
+!---------------------------------------------------------------------------------------------
+@RUN Date........  DOY    DAS    DAP  CR  Stage         Operation       Quantities
+!---------------------------------------------------------------------------------------------
+   9 JUN 18, 2019  169      1      0  CS                Planting       
+   9 NOV 18, 2019  322    154    153  CS                Irrigation        27.1 mm
+   9 NOV 29, 2019  333    165    164  CS                Irrigation        25.7 mm
+   9 DEC  8, 2019  342    174    173  CS                Irrigation        26.6 mm
+   9 DEC 17, 2019  351    183    182  CS                Irrigation        26.5 mm
+   9 DEC 26, 2019  360    192    191  CS                Irrigation        25.8 mm
+   9 JAN  5, 2020  005    202    201  CS                Irrigation        27.3 mm
+   9 JAN 14, 2020  014    211    210  CS                Irrigation        26.0 mm
+   9 JAN 25, 2020  025    222    221  CS                Irrigation        27.6 mm
+   9 FEB  4, 2020  035    232    231  CS                Irrigation        26.4 mm
+   9 FEB 15, 2020  046    243    242  CS                Irrigation        26.0 mm
+   9 FEB 26, 2020  057    254    253  CS                Irrigation        26.6 mm
+   9 MAR  8, 2020  068    265    264  CS                Irrigation        26.0 mm
+   9 MAR 19, 2020  079    276    275  CS                Irrigation        25.3 mm
+   9 APR 24, 2020  115    312    311  CS                Irrigation        25.8 mm
+   9 JUL 27, 2020  209    406    405  CS                Harvest Yield   17836. kg/ha
+ 
+
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:08
+!---------------------------------------------------------------------------------------------
+@RUN Date........  DOY    DAS    DAP  CR  Stage         Operation       Quantities
+!---------------------------------------------------------------------------------------------
+  10 JUN 18, 2019  169      1      0  CS                Planting       
+  10 NOV 18, 2019  322    154    153  CS                Irrigation        27.1 mm
+  10 NOV 29, 2019  333    165    164  CS                Irrigation        25.7 mm
+  10 DEC  8, 2019  342    174    173  CS                Irrigation        26.6 mm
+  10 DEC 17, 2019  351    183    182  CS                Irrigation        26.5 mm
+  10 DEC 26, 2019  360    192    191  CS                Irrigation        25.8 mm
+  10 JAN  5, 2020  005    202    201  CS                Irrigation        27.3 mm
+  10 JAN 14, 2020  014    211    210  CS                Irrigation        26.0 mm
+  10 JAN 25, 2020  025    222    221  CS                Irrigation        27.6 mm
+  10 FEB  4, 2020  035    232    231  CS                Irrigation        26.4 mm
+  10 FEB 15, 2020  046    243    242  CS                Irrigation        26.0 mm
+  10 FEB 26, 2020  057    254    253  CS                Irrigation        26.6 mm
+  10 MAR  8, 2020  068    265    264  CS                Irrigation        26.0 mm
+  10 MAR 19, 2020  079    276    275  CS                Irrigation        25.3 mm
+  10 APR 24, 2020  115    312    311  CS                Irrigation        25.8 mm
+  10 JUL 27, 2020  209    406    405  CS                Harvest Yield   17836. kg/ha
+ 
+
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:08
+!---------------------------------------------------------------------------------------------
+@RUN Date........  DOY    DAS    DAP  CR  Stage         Operation       Quantities
+!---------------------------------------------------------------------------------------------
+  11 JUN 18, 2019  169      1      0  CS                Planting       
+  11 NOV 18, 2019  322    154    153  CS                Irrigation        27.1 mm
+  11 NOV 29, 2019  333    165    164  CS                Irrigation        25.7 mm
+  11 DEC  8, 2019  342    174    173  CS                Irrigation        26.6 mm
+  11 DEC 17, 2019  351    183    182  CS                Irrigation        26.5 mm
+  11 DEC 26, 2019  360    192    191  CS                Irrigation        25.8 mm
+  11 JAN  5, 2020  005    202    201  CS                Irrigation        27.3 mm
+  11 JAN 14, 2020  014    211    210  CS                Irrigation        26.0 mm
+  11 JAN 25, 2020  025    222    221  CS                Irrigation        27.6 mm
+  11 FEB  4, 2020  035    232    231  CS                Irrigation        26.4 mm
+  11 FEB 15, 2020  046    243    242  CS                Irrigation        26.0 mm
+  11 FEB 26, 2020  057    254    253  CS                Irrigation        26.6 mm
+  11 MAR  8, 2020  068    265    264  CS                Irrigation        26.0 mm
+  11 MAR 19, 2020  079    276    275  CS                Irrigation        25.3 mm
+  11 APR 24, 2020  115    312    311  CS                Irrigation        25.8 mm
+  11 JUL 27, 2020  209    406    405  CS                Harvest Yield   17836. kg/ha
+ 
+
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:08
+!---------------------------------------------------------------------------------------------
+@RUN Date........  DOY    DAS    DAP  CR  Stage         Operation       Quantities
+!---------------------------------------------------------------------------------------------
+  12 JUN 18, 2019  169      1      0  CS                Planting       
+  12 NOV 18, 2019  322    154    153  CS                Irrigation        27.1 mm
+  12 NOV 29, 2019  333    165    164  CS                Irrigation        25.7 mm
+  12 DEC  8, 2019  342    174    173  CS                Irrigation        26.6 mm
+  12 DEC 17, 2019  351    183    182  CS                Irrigation        26.5 mm
+  12 DEC 26, 2019  360    192    191  CS                Irrigation        25.8 mm
+  12 JAN  5, 2020  005    202    201  CS                Irrigation        27.3 mm
+  12 JAN 14, 2020  014    211    210  CS                Irrigation        26.0 mm
+  12 JAN 25, 2020  025    222    221  CS                Irrigation        27.6 mm
+  12 FEB  4, 2020  035    232    231  CS                Irrigation        26.4 mm
+  12 FEB 15, 2020  046    243    242  CS                Irrigation        26.0 mm
+  12 FEB 26, 2020  057    254    253  CS                Irrigation        26.6 mm
+  12 MAR  8, 2020  068    265    264  CS                Irrigation        26.0 mm
+  12 MAR 19, 2020  079    276    275  CS                Irrigation        25.3 mm
+  12 APR 24, 2020  115    312    311  CS                Irrigation        25.8 mm
+  12 JUL 27, 2020  209    406    405  CS                Harvest Yield   17836. kg/ha
+ 
+
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:08
+!---------------------------------------------------------------------------------------------
+@RUN Date........  DOY    DAS    DAP  CR  Stage         Operation       Quantities
+!---------------------------------------------------------------------------------------------
+  13 JUN 18, 2019  169      1      0  CS                Planting       
+  13 NOV 18, 2019  322    154    153  CS                Irrigation        27.1 mm
+  13 NOV 29, 2019  333    165    164  CS                Irrigation        25.7 mm
+  13 DEC  8, 2019  342    174    173  CS                Irrigation        26.6 mm
+  13 DEC 17, 2019  351    183    182  CS                Irrigation        26.5 mm
+  13 DEC 26, 2019  360    192    191  CS                Irrigation        25.8 mm
+  13 JAN  5, 2020  005    202    201  CS                Irrigation        27.3 mm
+  13 JAN 14, 2020  014    211    210  CS                Irrigation        26.0 mm
+  13 JAN 25, 2020  025    222    221  CS                Irrigation        27.6 mm
+  13 FEB  4, 2020  035    232    231  CS                Irrigation        26.4 mm
+  13 FEB 15, 2020  046    243    242  CS                Irrigation        26.0 mm
+  13 FEB 26, 2020  057    254    253  CS                Irrigation        26.6 mm
+  13 MAR  8, 2020  068    265    264  CS                Irrigation        26.0 mm
+  13 MAR 19, 2020  079    276    275  CS                Irrigation        25.3 mm
+  13 APR 24, 2020  115    312    311  CS                Irrigation        25.8 mm
+  13 JUL 27, 2020  209    406    405  CS                Harvest Yield   17836. kg/ha
+ 
+
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:08
+!---------------------------------------------------------------------------------------------
+@RUN Date........  DOY    DAS    DAP  CR  Stage         Operation       Quantities
+!---------------------------------------------------------------------------------------------
+  14 JUN 18, 2019  169      1      0  CS                Planting       
+  14 NOV 18, 2019  322    154    153  CS                Irrigation        27.1 mm
+  14 NOV 29, 2019  333    165    164  CS                Irrigation        25.7 mm
+  14 DEC  8, 2019  342    174    173  CS                Irrigation        26.6 mm
+  14 DEC 17, 2019  351    183    182  CS                Irrigation        26.5 mm
+  14 DEC 26, 2019  360    192    191  CS                Irrigation        25.8 mm
+  14 JAN  5, 2020  005    202    201  CS                Irrigation        27.3 mm
+  14 JAN 14, 2020  014    211    210  CS                Irrigation        26.0 mm
+  14 JAN 25, 2020  025    222    221  CS                Irrigation        27.6 mm
+  14 FEB  4, 2020  035    232    231  CS                Irrigation        26.4 mm
+  14 FEB 15, 2020  046    243    242  CS                Irrigation        26.0 mm
+  14 FEB 26, 2020  057    254    253  CS                Irrigation        26.6 mm
+  14 MAR  8, 2020  068    265    264  CS                Irrigation        26.0 mm
+  14 MAR 19, 2020  079    276    275  CS                Irrigation        25.3 mm
+  14 APR 24, 2020  115    312    311  CS                Irrigation        25.8 mm
+  14 JUL 27, 2020  209    406    405  CS                Harvest Yield   17836. kg/ha
+ 
+
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:09
+!---------------------------------------------------------------------------------------------
+@RUN Date........  DOY    DAS    DAP  CR  Stage         Operation       Quantities
+!---------------------------------------------------------------------------------------------
+  15 JUN 18, 2019  169      1      0  CS                Planting       
+  15 NOV 18, 2019  322    154    153  CS                Irrigation        27.1 mm
+  15 NOV 29, 2019  333    165    164  CS                Irrigation        25.7 mm
+  15 DEC  8, 2019  342    174    173  CS                Irrigation        26.6 mm
+  15 DEC 17, 2019  351    183    182  CS                Irrigation        26.5 mm
+  15 DEC 26, 2019  360    192    191  CS                Irrigation        25.8 mm
+  15 JAN  5, 2020  005    202    201  CS                Irrigation        27.3 mm
+  15 JAN 14, 2020  014    211    210  CS                Irrigation        26.0 mm
+  15 JAN 25, 2020  025    222    221  CS                Irrigation        27.6 mm
+  15 FEB  4, 2020  035    232    231  CS                Irrigation        26.4 mm
+  15 FEB 15, 2020  046    243    242  CS                Irrigation        26.0 mm
+  15 FEB 26, 2020  057    254    253  CS                Irrigation        26.6 mm
+  15 MAR  8, 2020  068    265    264  CS                Irrigation        26.0 mm
+  15 MAR 19, 2020  079    276    275  CS                Irrigation        25.3 mm
+  15 APR 24, 2020  115    312    311  CS                Irrigation        25.8 mm
+  15 JUL 27, 2020  209    406    405  CS                Harvest Yield   17836. kg/ha
+ 
+
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:09
+!---------------------------------------------------------------------------------------------
+@RUN Date........  DOY    DAS    DAP  CR  Stage         Operation       Quantities
+!---------------------------------------------------------------------------------------------
+  16 JUN 18, 2019  169      1      0  CS                Planting       
+  16 NOV 18, 2019  322    154    153  CS                Irrigation        27.1 mm
+  16 NOV 29, 2019  333    165    164  CS                Irrigation        25.7 mm
+  16 DEC  8, 2019  342    174    173  CS                Irrigation        26.6 mm
+  16 DEC 17, 2019  351    183    182  CS                Irrigation        26.5 mm
+  16 DEC 26, 2019  360    192    191  CS                Irrigation        25.8 mm
+  16 JAN  5, 2020  005    202    201  CS                Irrigation        27.3 mm
+  16 JAN 14, 2020  014    211    210  CS                Irrigation        26.0 mm
+  16 JAN 25, 2020  025    222    221  CS                Irrigation        27.6 mm
+  16 FEB  4, 2020  035    232    231  CS                Irrigation        26.4 mm
+  16 FEB 15, 2020  046    243    242  CS                Irrigation        26.0 mm
+  16 FEB 26, 2020  057    254    253  CS                Irrigation        26.6 mm
+  16 MAR  8, 2020  068    265    264  CS                Irrigation        26.0 mm
+  16 MAR 19, 2020  079    276    275  CS                Irrigation        25.3 mm
+  16 APR 24, 2020  115    312    311  CS                Irrigation        25.8 mm
+  16 JUL 27, 2020  209    406    405  CS                Harvest Yield   17836. kg/ha
+ 
+
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:09
+!---------------------------------------------------------------------------------------------
+@RUN Date........  DOY    DAS    DAP  CR  Stage         Operation       Quantities
+!---------------------------------------------------------------------------------------------
+  17 JUN 18, 2019  169      1      0  CS                Planting       
+  17 NOV 18, 2019  322    154    153  CS                Irrigation        27.1 mm
+  17 NOV 29, 2019  333    165    164  CS                Irrigation        25.7 mm
+  17 DEC  8, 2019  342    174    173  CS                Irrigation        26.6 mm
+  17 DEC 17, 2019  351    183    182  CS                Irrigation        26.5 mm
+  17 DEC 26, 2019  360    192    191  CS                Irrigation        25.8 mm
+  17 JAN  5, 2020  005    202    201  CS                Irrigation        27.3 mm
+  17 JAN 14, 2020  014    211    210  CS                Irrigation        26.0 mm
+  17 JAN 25, 2020  025    222    221  CS                Irrigation        27.6 mm
+  17 FEB  4, 2020  035    232    231  CS                Irrigation        26.4 mm
+  17 FEB 15, 2020  046    243    242  CS                Irrigation        26.0 mm
+  17 FEB 26, 2020  057    254    253  CS                Irrigation        26.6 mm
+  17 MAR  8, 2020  068    265    264  CS                Irrigation        26.0 mm
+  17 MAR 19, 2020  079    276    275  CS                Irrigation        25.3 mm
+  17 APR 24, 2020  115    312    311  CS                Irrigation        25.8 mm
+  17 JUL 27, 2020  209    406    405  CS                Harvest Yield   17836. kg/ha
+ 
+
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:09
+!---------------------------------------------------------------------------------------------
+@RUN Date........  DOY    DAS    DAP  CR  Stage         Operation       Quantities
+!---------------------------------------------------------------------------------------------
+  18 JUN 18, 2019  169      1      0  CS                Planting       
+  18 NOV 18, 2019  322    154    153  CS                Irrigation        27.1 mm
+  18 NOV 29, 2019  333    165    164  CS                Irrigation        25.7 mm
+  18 DEC  8, 2019  342    174    173  CS                Irrigation        26.6 mm
+  18 DEC 17, 2019  351    183    182  CS                Irrigation        26.5 mm
+  18 DEC 26, 2019  360    192    191  CS                Irrigation        25.8 mm
+  18 JAN  5, 2020  005    202    201  CS                Irrigation        27.3 mm
+  18 JAN 14, 2020  014    211    210  CS                Irrigation        26.0 mm
+  18 JAN 25, 2020  025    222    221  CS                Irrigation        27.6 mm
+  18 FEB  4, 2020  035    232    231  CS                Irrigation        26.4 mm
+  18 FEB 15, 2020  046    243    242  CS                Irrigation        26.0 mm
+  18 FEB 26, 2020  057    254    253  CS                Irrigation        26.6 mm
+  18 MAR  8, 2020  068    265    264  CS                Irrigation        26.0 mm
+  18 MAR 19, 2020  079    276    275  CS                Irrigation        25.3 mm
+  18 APR 24, 2020  115    312    311  CS                Irrigation        25.8 mm
+  18 JUL 27, 2020  209    406    405  CS                Harvest Yield   17836. kg/ha
+ 
+
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:10
+!---------------------------------------------------------------------------------------------
+@RUN Date........  DOY    DAS    DAP  CR  Stage         Operation       Quantities
+!---------------------------------------------------------------------------------------------
+  19 JUN 18, 2019  169      1      0  CS                Planting       
+  19 NOV 18, 2019  322    154    153  CS                Irrigation        27.1 mm
+  19 NOV 29, 2019  333    165    164  CS                Irrigation        25.7 mm
+  19 DEC  8, 2019  342    174    173  CS                Irrigation        26.6 mm
+  19 DEC 17, 2019  351    183    182  CS                Irrigation        26.5 mm
+  19 DEC 26, 2019  360    192    191  CS                Irrigation        25.8 mm
+  19 JAN  5, 2020  005    202    201  CS                Irrigation        27.3 mm
+  19 JAN 14, 2020  014    211    210  CS                Irrigation        26.0 mm
+  19 JAN 25, 2020  025    222    221  CS                Irrigation        27.6 mm
+  19 FEB  4, 2020  035    232    231  CS                Irrigation        26.4 mm
+  19 FEB 15, 2020  046    243    242  CS                Irrigation        26.0 mm
+  19 FEB 26, 2020  057    254    253  CS                Irrigation        26.6 mm
+  19 MAR  8, 2020  068    265    264  CS                Irrigation        26.0 mm
+  19 MAR 19, 2020  079    276    275  CS                Irrigation        25.3 mm
+  19 APR 24, 2020  115    312    311  CS                Irrigation        25.8 mm
+  19 JUL 27, 2020  209    406    405  CS                Harvest Yield   17836. kg/ha
+ 

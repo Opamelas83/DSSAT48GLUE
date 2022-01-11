@@ -1,0 +1,115 @@
+$TIER_CONDITIONS
+
+*RUN 1    : UYAB1901CS 5 Cultivars CSYCA048                                    
+
+@ TIER SRADA  TMXA  TMNA  PREA  TWLA  CO2A  WFPA  WFGA  NFPA  NFGA  TIER_END  
+     1  19.2  34.1  22.7  2.33 11.98   413  0.02  0.16  0.00  0.00 2ndBranch    
+    16 -99.0 -99.0 -99.0-99.00-99.00   -99  0.00  0.00  0.00  0.00 Harvest      
+
+*RUN 2    : UYAG1701CS 5 Cultivars CSYCA048                                    
+
+@ TIER SRADA  TMXA  TMNA  PREA  TWLA  CO2A  WFPA  WFGA  NFPA  NFGA  TIER_END  
+     1  19.2  34.1  22.7  2.33 11.98   413  0.02  0.16  0.00  0.00 2ndBranch    
+    16 -99.0 -99.0 -99.0-99.00-99.00   -99  0.00  0.00  0.00  0.00 Harvest      
+
+*RUN 3    : UYAG1801CS 5 Cultivars CSYCA048                                    
+
+@ TIER SRADA  TMXA  TMNA  PREA  TWLA  CO2A  WFPA  WFGA  NFPA  NFGA  TIER_END  
+     1  19.2  34.1  22.7  2.33 11.98   413  0.02  0.16  0.00  0.00 2ndBranch    
+    16 -99.0 -99.0 -99.0-99.00-99.00   -99  0.00  0.00  0.00  0.00 Harvest      
+
+*RUN 4    : UYAG1901CS 5 Cultivars CSYCA048                                    
+
+@ TIER SRADA  TMXA  TMNA  PREA  TWLA  CO2A  WFPA  WFGA  NFPA  NFGA  TIER_END  
+     1  19.2  34.1  22.7  2.33 11.98   413  0.02  0.16  0.00  0.00 2ndBranch    
+    16 -99.0 -99.0 -99.0-99.00-99.00   -99  0.00  0.00  0.00  0.00 Harvest      
+
+*RUN 5    : UYIB1801CS 5 Cultivars CSYCA048                                    
+
+@ TIER SRADA  TMXA  TMNA  PREA  TWLA  CO2A  WFPA  WFGA  NFPA  NFGA  TIER_END  
+     1  19.2  34.1  22.7  2.33 11.98   413  0.02  0.16  0.00  0.00 2ndBranch    
+    16 -99.0 -99.0 -99.0-99.00-99.00   -99  0.00  0.00  0.00  0.00 Harvest      
+
+*RUN 6    : UYIB1901CS 5 Cultivars CSYCA048                                    
+
+@ TIER SRADA  TMXA  TMNA  PREA  TWLA  CO2A  WFPA  WFGA  NFPA  NFGA  TIER_END  
+     1  19.2  34.1  22.7  2.33 11.98   413  0.02  0.16  0.00  0.00 2ndBranch    
+    16 -99.0 -99.0 -99.0-99.00-99.00   -99  0.00  0.00  0.00  0.00 Harvest      
+
+*RUN 7    : UYIK1701CS 5 Cultivars CSYCA048                                    
+
+@ TIER SRADA  TMXA  TMNA  PREA  TWLA  CO2A  WFPA  WFGA  NFPA  NFGA  TIER_END  
+     1  19.2  34.1  22.7  2.33 11.98   413  0.02  0.16  0.00  0.00 2ndBranch    
+    16 -99.0 -99.0 -99.0-99.00-99.00   -99  0.00  0.00  0.00  0.00 Harvest      
+
+*RUN 8    : UYIK1801CS 5 Cultivars CSYCA048                                    
+
+@ TIER SRADA  TMXA  TMNA  PREA  TWLA  CO2A  WFPA  WFGA  NFPA  NFGA  TIER_END  
+     1  19.2  34.1  22.7  2.33 11.98   413  0.02  0.16  0.00  0.00 2ndBranch    
+    16 -99.0 -99.0 -99.0-99.00-99.00   -99  0.00  0.00  0.00  0.00 Harvest      
+
+*RUN 9    : UYIK1901CS 5 Cultivars CSYCA048                                    
+
+@ TIER SRADA  TMXA  TMNA  PREA  TWLA  CO2A  WFPA  WFGA  NFPA  NFGA  TIER_END  
+     1  19.2  34.1  22.7  2.33 11.98   413  0.02  0.16  0.00  0.00 2ndBranch    
+    16 -99.0 -99.0 -99.0-99.00-99.00   -99  0.00  0.00  0.00  0.00 Harvest      
+
+*RUN 10   : UYKA1801CS 5 Cultivars CSYCA048                                    
+
+@ TIER SRADA  TMXA  TMNA  PREA  TWLA  CO2A  WFPA  WFGA  NFPA  NFGA  TIER_END  
+     1  19.2  34.1  22.7  2.33 11.98   413  0.02  0.16  0.00  0.00 2ndBranch    
+    16 -99.0 -99.0 -99.0-99.00-99.00   -99  0.00  0.00  0.00  0.00 Harvest      
+
+*RUN 11   : UYMO1701CS 5 Cultivars CSYCA048                                    
+
+@ TIER SRADA  TMXA  TMNA  PREA  TWLA  CO2A  WFPA  WFGA  NFPA  NFGA  TIER_END  
+     1  19.2  34.1  22.7  2.33 11.98   413  0.02  0.16  0.00  0.00 2ndBranch    
+    16 -99.0 -99.0 -99.0-99.00-99.00   -99  0.00  0.00  0.00  0.00 Harvest      
+
+*RUN 12   : UYMO1801CS 5 Cultivars CSYCA048                                    
+
+@ TIER SRADA  TMXA  TMNA  PREA  TWLA  CO2A  WFPA  WFGA  NFPA  NFGA  TIER_END  
+     1  19.2  34.1  22.7  2.33 11.98   413  0.02  0.16  0.00  0.00 2ndBranch    
+    16 -99.0 -99.0 -99.0-99.00-99.00   -99  0.00  0.00  0.00  0.00 Harvest      
+
+*RUN 13   : UYMO1901CS 5 Cultivars CSYCA048                                    
+
+@ TIER SRADA  TMXA  TMNA  PREA  TWLA  CO2A  WFPA  WFGA  NFPA  NFGA  TIER_END  
+     1  19.2  34.1  22.7  2.33 11.98   413  0.02  0.16  0.00  0.00 2ndBranch    
+    16 -99.0 -99.0 -99.0-99.00-99.00   -99  0.00  0.00  0.00  0.00 Harvest      
+
+*RUN 14   : UYON1801CS 5 Cultivars CSYCA048                                    
+
+@ TIER SRADA  TMXA  TMNA  PREA  TWLA  CO2A  WFPA  WFGA  NFPA  NFGA  TIER_END  
+     1  19.2  34.1  22.7  2.33 11.98   413  0.02  0.16  0.00  0.00 2ndBranch    
+    16 -99.0 -99.0 -99.0-99.00-99.00   -99  0.00  0.00  0.00  0.00 Harvest      
+
+*RUN 15   : UYON1901CS 5 Cultivars CSYCA048                                    
+
+@ TIER SRADA  TMXA  TMNA  PREA  TWLA  CO2A  WFPA  WFGA  NFPA  NFGA  TIER_END  
+     1  19.2  34.1  22.7  2.33 11.98   413  0.02  0.16  0.00  0.00 2ndBranch    
+    16 -99.0 -99.0 -99.0-99.00-99.00   -99  0.00  0.00  0.00  0.00 Harvest      
+
+*RUN 16   : UYOT1801CS 5 Cultivars CSYCA048                                    
+
+@ TIER SRADA  TMXA  TMNA  PREA  TWLA  CO2A  WFPA  WFGA  NFPA  NFGA  TIER_END  
+     1  19.2  34.1  22.7  2.33 11.98   413  0.02  0.16  0.00  0.00 2ndBranch    
+    16 -99.0 -99.0 -99.0-99.00-99.00   -99  0.00  0.00  0.00  0.00 Harvest      
+
+*RUN 17   : UYUB1901CS 5 Cultivars CSYCA048                                    
+
+@ TIER SRADA  TMXA  TMNA  PREA  TWLA  CO2A  WFPA  WFGA  NFPA  NFGA  TIER_END  
+     1  19.2  34.1  22.7  2.33 11.98   413  0.02  0.16  0.00  0.00 2ndBranch    
+    16 -99.0 -99.0 -99.0-99.00-99.00   -99  0.00  0.00  0.00  0.00 Harvest      
+
+*RUN 18   : UYUM1801CS 5 Cultivars CSYCA048                                    
+
+@ TIER SRADA  TMXA  TMNA  PREA  TWLA  CO2A  WFPA  WFGA  NFPA  NFGA  TIER_END  
+     1  19.2  34.1  22.7  2.33 11.98   413  0.02  0.16  0.00  0.00 2ndBranch    
+    16 -99.0 -99.0 -99.0-99.00-99.00   -99  0.00  0.00  0.00  0.00 Harvest      
+
+*RUN 19   : UYZA1901CS 5 Cultivars CSYCA048                                    
+
+@ TIER SRADA  TMXA  TMNA  PREA  TWLA  CO2A  WFPA  WFGA  NFPA  NFGA  TIER_END  
+     1  19.2  34.1  22.7  2.33 11.98   413  0.02  0.16  0.00  0.00 2ndBranch    
+    16 -99.0 -99.0 -99.0-99.00-99.00   -99  0.00  0.00  0.00  0.00 Harvest      

@@ -1,0 +1,11 @@
+"Treatment" "EDAP" "B1DAP" "B2DAP" "B3DAP" "B4DAP" "IntegratedCombinedLikelihood"
+15 1 1 1 1 1 1
+15 1 1 1 1 1 1
+15 1 1 1 1 1 1
+15 1 1 1 1 1 1
+15 1 1 1 1 1 1
+15 1 1 1 1 1 1
+15 1 1 1 1 1 1
+15 1 1 1 1 1 1
+15 1 1 1 1 1 1
+15 1 1 1 1 1 1
