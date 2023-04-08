@@ -1,590 +1,621 @@
 *WATER BALANCE OUTPUT FILE
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:05
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:37
 
-*RUN   1        : TMEB419                   CSYCA048 UYAB1901    5
+*RUN   1        : IITA-TMS-IBA000070        CSYCA048 UYAB1901    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYAB1901 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
 !     WATER BALANCE PARAMETERS
 !     ========================                 --mm--
 
-!     Soil H20 (start) on Year/day 2019/169    386.50
-!     Soil H20 (final) on Year/day 2020/209    375.83
-!     Effective Irrigation                     368.62
-!     Precipitation                           2092.30
-!     Water added with new mulch                 0.17
-!     Drainage                                 637.38
+!     Soil H20 (start) on Year/day 2019/168    533.50
+!     Soil H20 (final) on Year/day 2020/209    636.49
+!     Effective Irrigation                       0.00
+!     Precipitation                           1984.60
+!     Water added with new mulch                 0.13
+!     Drainage                                 641.21
 !     Tiledrain flow                             0.00
-!     Runoff                                   383.99
-!     Mulch evaporation                         12.82
-!     Soil Evaporation                         745.72
-!     Transpiration                            691.50
-!     Potential ET                            1951.25
+!     Runoff                                   113.14
+!     Mulch evaporation                          7.87
+!     Soil Evaporation                         687.38
+!     Transpiration                            431.85
+!     Potential ET                            1918.19
 
 !     Initial mulch water content                0.00
-!     Final mulch water content                  0.36
+!     Final mulch water content                  0.27
 
-!     Final Balance                            -0.005
+!     Final Balance                             0.020
 
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:06
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:37
 
-*RUN   2        : TMEB419                   CSYCA048 UYAG1701    5
+*RUN   2        : IITA-TMS-IBA000070        CSYCA048 UYAG1701    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYAG1701 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
 !     WATER BALANCE PARAMETERS
 !     ========================                 --mm--
 
-!     Soil H20 (start) on Year/day 2019/169    386.50
-!     Soil H20 (final) on Year/day 2020/209    375.83
-!     Effective Irrigation                     368.62
-!     Precipitation                           2092.30
-!     Water added with new mulch                 0.17
-!     Drainage                                 637.38
+!     Soil H20 (start) on Year/day 2017/241    543.90
+!     Soil H20 (final) on Year/day 2018/194    575.09
+!     Effective Irrigation                       0.00
+!     Precipitation                           1283.50
+!     Water added with new mulch                 0.11
+!     Drainage                                 285.63
 !     Tiledrain flow                             0.00
-!     Runoff                                   383.99
-!     Mulch evaporation                         12.82
-!     Soil Evaporation                         745.72
-!     Transpiration                            691.50
-!     Potential ET                            1951.25
+!     Runoff                                    38.23
+!     Mulch evaporation                          4.05
+!     Soil Evaporation                         556.57
+!     Transpiration                            367.73
+!     Potential ET                            1326.91
 
 !     Initial mulch water content                0.00
-!     Final mulch water content                  0.36
+!     Final mulch water content                  0.22
 
-!     Final Balance                            -0.005
+!     Final Balance                            -0.017
 
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:06
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:38
 
-*RUN   3        : TMEB419                   CSYCA048 UYAG1801    5
+*RUN   3        : IITA-TMS-IBA000070        CSYCA048 UYAG1801    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYAG1801 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
 !     WATER BALANCE PARAMETERS
 !     ========================                 --mm--
 
-!     Soil H20 (start) on Year/day 2019/169    386.50
-!     Soil H20 (final) on Year/day 2020/209    375.83
-!     Effective Irrigation                     368.62
-!     Precipitation                           2092.30
-!     Water added with new mulch                 0.17
-!     Drainage                                 637.38
+!     Soil H20 (start) on Year/day 2018/171    543.90
+!     Soil H20 (final) on Year/day 2019/172    563.47
+!     Effective Irrigation                       0.00
+!     Precipitation                           2341.70
+!     Water added with new mulch                 0.12
+!     Drainage                                 881.43
 !     Tiledrain flow                             0.00
-!     Runoff                                   383.99
-!     Mulch evaporation                         12.82
-!     Soil Evaporation                         745.72
-!     Transpiration                            691.50
-!     Potential ET                            1951.25
+!     Runoff                                   223.55
+!     Mulch evaporation                          5.78
+!     Soil Evaporation                         680.21
+!     Transpiration                            531.06
+!     Potential ET                            1511.97
 
 !     Initial mulch water content                0.00
-!     Final mulch water content                  0.36
+!     Final mulch water content                  0.25
 
-!     Final Balance                            -0.005
+!     Final Balance                            -0.011
 
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:06
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:38
 
-*RUN   4        : TMEB419                   CSYCA048 UYAG1901    5
+*RUN   4        : IITA-TMS-IBA000070        CSYCA048 UYAG1901    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYAG1901 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
 !     WATER BALANCE PARAMETERS
 !     ========================                 --mm--
 
-!     Soil H20 (start) on Year/day 2019/169    386.50
-!     Soil H20 (final) on Year/day 2020/209    375.83
-!     Effective Irrigation                     368.62
-!     Precipitation                           2092.30
-!     Water added with new mulch                 0.17
-!     Drainage                                 637.38
+!     Soil H20 (start) on Year/day 2019/150    543.90
+!     Soil H20 (final) on Year/day 2020/152    493.73
+!     Effective Irrigation                       0.00
+!     Precipitation                           2464.00
+!     Water added with new mulch                 0.13
+!     Drainage                                1037.65
 !     Tiledrain flow                             0.00
-!     Runoff                                   383.99
-!     Mulch evaporation                         12.82
-!     Soil Evaporation                         745.72
-!     Transpiration                            691.50
-!     Potential ET                            1951.25
+!     Runoff                                   295.64
+!     Mulch evaporation                          5.01
+!     Soil Evaporation                         628.37
+!     Transpiration                            547.39
+!     Potential ET                            1542.23
 
 !     Initial mulch water content                0.00
-!     Final mulch water content                  0.36
+!     Final mulch water content                  0.26
 
-!     Final Balance                            -0.005
+!     Final Balance                            -0.017
 
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:06
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:38
 
-*RUN   5        : TMEB419                   CSYCA048 UYIB1801    5
+*RUN   5        : IITA-TMS-IBA000070        CSYCA048 UYIB1701    1
+ MODEL          : CSYCA048 - Cassava
+ EXPERIMENT     : UYIB1701 CS UYT_GXE
+ DATA PATH      :
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
+  
+
+!     WATER BALANCE PARAMETERS
+!     ========================                 --mm--
+
+!     Soil H20 (start) on Year/day 2017/250    443.35
+!     Soil H20 (final) on Year/day 2018/251    554.61
+!     Effective Irrigation                       0.00
+!     Precipitation                           1748.10
+!     Water added with new mulch                 0.12
+!     Drainage                                 580.62
+!     Tiledrain flow                             0.00
+!     Runoff                                    53.69
+!     Mulch evaporation                          7.45
+!     Soil Evaporation                         592.15
+!     Transpiration                            402.81
+!     Potential ET                            1504.37
+
+!     Initial mulch water content                0.00
+!     Final mulch water content                  0.25
+
+!     Final Balance                             0.009
+
+
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:38
+
+*RUN   6        : IITA-TMS-IBA000070        CSYCA048 UYIB1801    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYIB1801 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
 !     WATER BALANCE PARAMETERS
 !     ========================                 --mm--
 
-!     Soil H20 (start) on Year/day 2019/169    386.50
-!     Soil H20 (final) on Year/day 2020/209    375.83
-!     Effective Irrigation                     368.62
-!     Precipitation                           2092.30
-!     Water added with new mulch                 0.17
-!     Drainage                                 637.38
+!     Soil H20 (start) on Year/day 2018/250    443.35
+!     Soil H20 (final) on Year/day 2019/251    497.66
+!     Effective Irrigation                       0.00
+!     Precipitation                           2077.90
+!     Water added with new mulch                 0.14
+!     Drainage                                 728.90
 !     Tiledrain flow                             0.00
-!     Runoff                                   383.99
-!     Mulch evaporation                         12.82
-!     Soil Evaporation                         745.72
-!     Transpiration                            691.50
-!     Potential ET                            1951.25
+!     Runoff                                   135.95
+!     Mulch evaporation                          8.79
+!     Soil Evaporation                         623.06
+!     Transpiration                            526.78
+!     Potential ET                            1550.96
 
 !     Initial mulch water content                0.00
-!     Final mulch water content                  0.36
+!     Final mulch water content                  0.28
 
-!     Final Balance                            -0.005
+!     Final Balance                            -0.026
 
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:07
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:39
 
-*RUN   6        : TMEB419                   CSYCA048 UYIB1901    5
+*RUN   7        : IITA-TMS-IBA000070        CSYCA048 UYIB1901    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYIB1901 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
 !     WATER BALANCE PARAMETERS
 !     ========================                 --mm--
 
-!     Soil H20 (start) on Year/day 2019/169    386.50
-!     Soil H20 (final) on Year/day 2020/209    375.83
-!     Effective Irrigation                     368.62
-!     Precipitation                           2092.30
-!     Water added with new mulch                 0.17
-!     Drainage                                 637.38
+!     Soil H20 (start) on Year/day 2019/134    443.35
+!     Soil H20 (final) on Year/day 2020/110    386.92
+!     Effective Irrigation                       0.00
+!     Precipitation                           2051.90
+!     Water added with new mulch                 0.14
+!     Drainage                                 939.37
 !     Tiledrain flow                             0.00
-!     Runoff                                   383.99
-!     Mulch evaporation                         12.82
-!     Soil Evaporation                         745.72
-!     Transpiration                            691.50
-!     Potential ET                            1951.25
+!     Runoff                                   212.03
+!     Mulch evaporation                          3.75
+!     Soil Evaporation                         498.24
+!     Transpiration                            454.85
+!     Potential ET                            1426.29
 
 !     Initial mulch water content                0.00
-!     Final mulch water content                  0.36
+!     Final mulch water content                  0.28
 
-!     Final Balance                            -0.005
+!     Final Balance                            -0.042
 
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:07
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:39
 
-*RUN   7        : TMEB419                   CSYCA048 UYIK1701    5
+*RUN   8        : IITA-TMS-IBA000070        CSYCA048 UYIB2001    1
+ MODEL          : CSYCA048 - Cassava
+ EXPERIMENT     : UYIB2001 CS UYT_GXE
+ DATA PATH      :
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
+  
+
+!     WATER BALANCE PARAMETERS
+!     ========================                 --mm--
+
+!     Soil H20 (start) on Year/day 2020/135    443.35
+!     Soil H20 (final) on Year/day 2021/134    396.32
+!     Effective Irrigation                     353.33
+!     Precipitation                           1607.60
+!     Water added with new mulch                 0.12
+!     Drainage                                 544.98
+!     Tiledrain flow                             0.00
+!     Runoff                                    99.79
+!     Mulch evaporation                          4.07
+!     Soil Evaporation                         753.66
+!     Transpiration                            605.34
+!     Potential ET                            1562.31
+
+!     Initial mulch water content                0.00
+!     Final mulch water content                  0.25
+
+!     Final Balance                            -0.002
+
+
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:39
+
+*RUN   9        : IITA-TMS-IBA000070        CSYCA048 UYIK1701    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYIK1701 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
 !     WATER BALANCE PARAMETERS
 !     ========================                 --mm--
 
-!     Soil H20 (start) on Year/day 2019/169    386.50
-!     Soil H20 (final) on Year/day 2020/209    375.83
-!     Effective Irrigation                     368.62
-!     Precipitation                           2092.30
-!     Water added with new mulch                 0.17
-!     Drainage                                 637.38
+!     Soil H20 (start) on Year/day 2017/235    697.10
+!     Soil H20 (final) on Year/day 2018/241    719.93
+!     Effective Irrigation                     353.33
+!     Precipitation                           1627.20
+!     Water added with new mulch                 0.12
+!     Drainage                                 449.21
 !     Tiledrain flow                             0.00
-!     Runoff                                   383.99
-!     Mulch evaporation                         12.82
-!     Soil Evaporation                         745.72
-!     Transpiration                            691.50
-!     Potential ET                            1951.25
+!     Runoff                                    52.78
+!     Mulch evaporation                          7.02
+!     Soil Evaporation                         697.40
+!     Transpiration                            397.86
+!     Potential ET                            1530.88
 
 !     Initial mulch water content                0.00
-!     Final mulch water content                  0.36
+!     Final mulch water content                  0.23
 
-!     Final Balance                            -0.005
+!     Final Balance                           353.315
 
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:07
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:39
 
-*RUN   8        : TMEB419                   CSYCA048 UYIK1801    5
+*RUN  10        : IITA-TMS-IBA000070        CSYCA048 UYIK1801    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYIK1801 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
 !     WATER BALANCE PARAMETERS
 !     ========================                 --mm--
 
-!     Soil H20 (start) on Year/day 2019/169    386.50
-!     Soil H20 (final) on Year/day 2020/209    375.83
-!     Effective Irrigation                     368.62
-!     Precipitation                           2092.30
-!     Water added with new mulch                 0.17
-!     Drainage                                 637.38
+!     Soil H20 (start) on Year/day 2018/167    697.10
+!     Soil H20 (final) on Year/day 2019/168    704.48
+!     Effective Irrigation                     353.33
+!     Precipitation                           2149.30
+!     Water added with new mulch                 0.13
+!     Drainage                                 697.68
 !     Tiledrain flow                             0.00
-!     Runoff                                   383.99
-!     Mulch evaporation                         12.82
-!     Soil Evaporation                         745.72
-!     Transpiration                            691.50
-!     Potential ET                            1951.25
+!     Runoff                                   172.71
+!     Mulch evaporation                          6.56
+!     Soil Evaporation                         690.61
+!     Transpiration                            574.24
+!     Potential ET                            1520.95
 
 !     Initial mulch water content                0.00
-!     Final mulch water content                  0.36
+!     Final mulch water content                  0.26
 
-!     Final Balance                            -0.005
+!     Final Balance                           353.328
 
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:07
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:39
 
-*RUN   9        : TMEB419                   CSYCA048 UYIK1901    5
+*RUN  11        : IITA-TMS-IBA000070        CSYCA048 UYIK1901    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYIK1901 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
 !     WATER BALANCE PARAMETERS
 !     ========================                 --mm--
 
-!     Soil H20 (start) on Year/day 2019/169    386.50
-!     Soil H20 (final) on Year/day 2020/209    375.83
-!     Effective Irrigation                     368.62
-!     Precipitation                           2092.30
-!     Water added with new mulch                 0.17
-!     Drainage                                 637.38
+!     Soil H20 (start) on Year/day 2019/151    697.10
+!     Soil H20 (final) on Year/day 2020/166    700.73
+!     Effective Irrigation                     353.33
+!     Precipitation                           2298.10
+!     Water added with new mulch                 0.13
+!     Drainage                                 842.68
 !     Tiledrain flow                             0.00
-!     Runoff                                   383.99
-!     Mulch evaporation                         12.82
-!     Soil Evaporation                         745.72
-!     Transpiration                            691.50
-!     Potential ET                            1951.25
+!     Runoff                                   255.72
+!     Mulch evaporation                          6.03
+!     Soil Evaporation                         648.30
+!     Transpiration                            541.62
+!     Potential ET                            1596.20
 
 !     Initial mulch water content                0.00
-!     Final mulch water content                  0.36
+!     Final mulch water content                  0.26
 
-!     Final Balance                            -0.005
+!     Final Balance                           353.323
 
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:08
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:39
 
-*RUN  10        : TMEB419                   CSYCA048 UYKA1801    5
+*RUN  12        : IITA-TMS-IBA000070        CSYCA048 UYKA1801    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYKA1801 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
 !     WATER BALANCE PARAMETERS
 !     ========================                 --mm--
 
-!     Soil H20 (start) on Year/day 2019/169    386.50
-!     Soil H20 (final) on Year/day 2020/209    375.83
-!     Effective Irrigation                     368.62
-!     Precipitation                           2092.30
-!     Water added with new mulch                 0.17
-!     Drainage                                 637.38
+!     Soil H20 (start) on Year/day 2018/196    495.90
+!     Soil H20 (final) on Year/day 2019/196    370.23
+!     Effective Irrigation                     816.83
+!     Precipitation                            782.60
+!     Water added with new mulch                 0.15
+!     Drainage                                 100.63
 !     Tiledrain flow                             0.00
-!     Runoff                                   383.99
-!     Mulch evaporation                         12.82
-!     Soil Evaporation                         745.72
-!     Transpiration                            691.50
-!     Potential ET                            1951.25
+!     Runoff                                    31.25
+!     Mulch evaporation                          5.08
+!     Soil Evaporation                         732.14
+!     Transpiration                            855.87
+!     Potential ET                            1975.09
 
 !     Initial mulch water content                0.00
-!     Final mulch water content                  0.36
+!     Final mulch water content                  0.29
 
-!     Final Balance                            -0.005
+!     Final Balance                            -0.014
 
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:08
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:40
 
-*RUN  11        : TMEB419                   CSYCA048 UYMO1701    5
+*RUN  13        : IITA-TMS-IBA000070        CSYCA048 UYMO1701    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYMO1701 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
 !     WATER BALANCE PARAMETERS
 !     ========================                 --mm--
 
-!     Soil H20 (start) on Year/day 2019/169    386.50
-!     Soil H20 (final) on Year/day 2020/209    375.83
-!     Effective Irrigation                     368.62
-!     Precipitation                           2092.30
-!     Water added with new mulch                 0.17
-!     Drainage                                 637.38
+!     Soil H20 (start) on Year/day 2017/232    692.90
+!     Soil H20 (final) on Year/day 2018/251    760.92
+!     Effective Irrigation                     816.83
+!     Precipitation                           1288.60
+!     Water added with new mulch                 0.06
+!     Drainage                                 141.70
 !     Tiledrain flow                             0.00
-!     Runoff                                   383.99
-!     Mulch evaporation                         12.82
-!     Soil Evaporation                         745.72
-!     Transpiration                            691.50
-!     Potential ET                            1951.25
+!     Runoff                                   128.26
+!     Mulch evaporation                          2.52
+!     Soil Evaporation                         793.43
+!     Transpiration                            154.61
+!     Potential ET                            1968.04
 
 !     Initial mulch water content                0.00
-!     Final mulch water content                  0.36
+!     Final mulch water content                  0.13
 
-!     Final Balance                            -0.005
+!     Final Balance                           816.826
 
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:08
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:40
 
-*RUN  12        : TMEB419                   CSYCA048 UYMO1801    5
+*RUN  14        : IITA-TMS-IBA000070        CSYCA048 UYMO1801    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYMO1801 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
 !     WATER BALANCE PARAMETERS
 !     ========================                 --mm--
 
-!     Soil H20 (start) on Year/day 2019/169    386.50
-!     Soil H20 (final) on Year/day 2020/209    375.83
-!     Effective Irrigation                     368.62
-!     Precipitation                           2092.30
-!     Water added with new mulch                 0.17
-!     Drainage                                 637.38
+!     Soil H20 (start) on Year/day 2018/164    692.90
+!     Soil H20 (final) on Year/day 2019/165    527.24
+!     Effective Irrigation                     816.83
+!     Precipitation                           1170.90
+!     Water added with new mulch                 0.11
+!     Drainage                                 276.13
 !     Tiledrain flow                             0.00
-!     Runoff                                   383.99
-!     Mulch evaporation                         12.82
-!     Soil Evaporation                         745.72
-!     Transpiration                            691.50
-!     Potential ET                            1951.25
+!     Runoff                                   158.93
+!     Mulch evaporation                          3.86
+!     Soil Evaporation                         501.54
+!     Transpiration                            396.00
+!     Potential ET                            1830.27
 
 !     Initial mulch water content                0.00
-!     Final mulch water content                  0.36
+!     Final mulch water content                  0.23
 
-!     Final Balance                            -0.005
+!     Final Balance                           816.819
 
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:08
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:40
 
-*RUN  13        : TMEB419                   CSYCA048 UYMO1901    5
+*RUN  15        : IITA-TMS-IBA000070        CSYCA048 UYMO1901    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYMO1901 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
 !     WATER BALANCE PARAMETERS
 !     ========================                 --mm--
 
-!     Soil H20 (start) on Year/day 2019/169    386.50
-!     Soil H20 (final) on Year/day 2020/209    375.83
-!     Effective Irrigation                     368.62
-!     Precipitation                           2092.30
-!     Water added with new mulch                 0.17
-!     Drainage                                 637.38
+!     Soil H20 (start) on Year/day 2019/176    692.90
+!     Soil H20 (final) on Year/day 2020/178    523.35
+!     Effective Irrigation                     816.83
+!     Precipitation                           1268.30
+!     Water added with new mulch                 0.11
+!     Drainage                                 223.80
 !     Tiledrain flow                             0.00
-!     Runoff                                   383.99
-!     Mulch evaporation                         12.82
-!     Soil Evaporation                         745.72
-!     Transpiration                            691.50
-!     Potential ET                            1951.25
+!     Runoff                                    90.61
+!     Mulch evaporation                          4.01
+!     Soil Evaporation                         699.60
+!     Transpiration                            419.73
+!     Potential ET                            1848.01
 
 !     Initial mulch water content                0.00
-!     Final mulch water content                  0.36
+!     Final mulch water content                  0.21
 
-!     Final Balance                            -0.005
+!     Final Balance                           816.816
 
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:08
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:40
 
-*RUN  14        : TMEB419                   CSYCA048 UYON1801    5
+*RUN  16        : IITA-TMS-IBA000070        CSYCA048 UYON1801    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYON1801 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
 !     WATER BALANCE PARAMETERS
 !     ========================                 --mm--
 
-!     Soil H20 (start) on Year/day 2019/169    386.50
-!     Soil H20 (final) on Year/day 2020/209    375.83
-!     Effective Irrigation                     368.62
-!     Precipitation                           2092.30
-!     Water added with new mulch                 0.17
-!     Drainage                                 637.38
+!     Soil H20 (start) on Year/day 2018/116    615.00
+!     Soil H20 (final) on Year/day 2019/117    478.85
+!     Effective Irrigation                     816.83
+!     Precipitation                           2779.00
+!     Water added with new mulch                 0.12
+!     Drainage                                1383.13
 !     Tiledrain flow                             0.00
-!     Runoff                                   383.99
-!     Mulch evaporation                         12.82
-!     Soil Evaporation                         745.72
-!     Transpiration                            691.50
-!     Potential ET                            1951.25
+!     Runoff                                   442.05
+!     Mulch evaporation                          4.17
+!     Soil Evaporation                         518.20
+!     Transpiration                            567.58
+!     Potential ET                            1405.99
 
 !     Initial mulch water content                0.00
-!     Final mulch water content                  0.36
+!     Final mulch water content                  0.15
 
-!     Final Balance                            -0.005
-
-
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:09
-
-*RUN  15        : TMEB419                   CSYCA048 UYON1901    5
- MODEL          : CSYCA048 - Cassava
- EXPERIMENT     : UYON1901 CS UYT_GXE
- DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
-  
-
-!     WATER BALANCE PARAMETERS
-!     ========================                 --mm--
-
-!     Soil H20 (start) on Year/day 2019/169    386.50
-!     Soil H20 (final) on Year/day 2020/209    375.83
-!     Effective Irrigation                     368.62
-!     Precipitation                           2092.30
-!     Water added with new mulch                 0.17
-!     Drainage                                 637.38
-!     Tiledrain flow                             0.00
-!     Runoff                                   383.99
-!     Mulch evaporation                         12.82
-!     Soil Evaporation                         745.72
-!     Transpiration                            691.50
-!     Potential ET                            1951.25
-
-!     Initial mulch water content                0.00
-!     Final mulch water content                  0.36
-
-!     Final Balance                            -0.005
+!     Final Balance                           816.829
 
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:09
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:40
 
-*RUN  16        : TMEB419                   CSYCA048 UYOT1801    5
+*RUN  17        : IITA-TMS-IBA000070        CSYCA048 UYOT1801    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYOT1801 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
 !     WATER BALANCE PARAMETERS
 !     ========================                 --mm--
 
-!     Soil H20 (start) on Year/day 2019/169    386.50
-!     Soil H20 (final) on Year/day 2020/209    375.83
-!     Effective Irrigation                     368.62
-!     Precipitation                           2092.30
-!     Water added with new mulch                 0.17
-!     Drainage                                 637.38
+!     Soil H20 (start) on Year/day 2018/198    669.30
+!     Soil H20 (final) on Year/day 2019/198    458.75
+!     Effective Irrigation                    4175.90
+!     Precipitation                            864.80
+!     Water added with new mulch                 0.15
+!     Drainage                                4545.46
 !     Tiledrain flow                             0.00
-!     Runoff                                   383.99
-!     Mulch evaporation                         12.82
-!     Soil Evaporation                         745.72
-!     Transpiration                            691.50
-!     Potential ET                            1951.25
+!     Runoff                                     0.00
+!     Mulch evaporation                          6.89
+!     Soil Evaporation                         466.52
+!     Transpiration                            232.22
+!     Potential ET                            1713.40
 
 !     Initial mulch water content                0.00
-!     Final mulch water content                  0.36
+!     Final mulch water content                  0.30
 
-!     Final Balance                            -0.005
+!     Final Balance                             0.013
 
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:09
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:41
 
-*RUN  17        : TMEB419                   CSYCA048 UYUB1901    5
+*RUN  18        : IITA-TMS-IBA000070        CSYCA048 UYUB1901    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYUB1901 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
 !     WATER BALANCE PARAMETERS
 !     ========================                 --mm--
 
-!     Soil H20 (start) on Year/day 2019/169    386.50
-!     Soil H20 (final) on Year/day 2020/209    375.83
-!     Effective Irrigation                     368.62
-!     Precipitation                           2092.30
-!     Water added with new mulch                 0.17
-!     Drainage                                 637.38
+!     Soil H20 (start) on Year/day 2019/150    599.45
+!     Soil H20 (final) on Year/day 2020/155    467.15
+!     Effective Irrigation                    4175.90
+!     Precipitation                           2303.10
+!     Water added with new mulch                 0.12
+!     Drainage                                 985.19
 !     Tiledrain flow                             0.00
-!     Runoff                                   383.99
-!     Mulch evaporation                         12.82
-!     Soil Evaporation                         745.72
-!     Transpiration                            691.50
-!     Potential ET                            1951.25
+!     Runoff                                   293.19
+!     Mulch evaporation                          4.45
+!     Soil Evaporation                         638.95
+!     Transpiration                            513.51
+!     Potential ET                            1558.55
 
 !     Initial mulch water content                0.00
-!     Final mulch water content                  0.36
+!     Final mulch water content                  0.24
 
-!     Final Balance                            -0.005
+!     Final Balance                          4175.885
 
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:09
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:41
 
-*RUN  18        : TMEB419                   CSYCA048 UYUM1801    5
+*RUN  19        : IITA-TMS-IBA000070        CSYCA048 UYUM1801    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYUM1801 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
 !     WATER BALANCE PARAMETERS
 !     ========================                 --mm--
 
-!     Soil H20 (start) on Year/day 2019/169    386.50
-!     Soil H20 (final) on Year/day 2020/209    375.83
-!     Effective Irrigation                     368.62
-!     Precipitation                           2092.30
-!     Water added with new mulch                 0.17
-!     Drainage                                 637.38
+!     Soil H20 (start) on Year/day 2018/208    627.85
+!     Soil H20 (final) on Year/day 2019/208    674.08
+!     Effective Irrigation                    4175.90
+!     Precipitation                           1637.60
+!     Water added with new mulch                 0.12
+!     Drainage                                 435.50
 !     Tiledrain flow                             0.00
-!     Runoff                                   383.99
-!     Mulch evaporation                         12.82
-!     Soil Evaporation                         745.72
-!     Transpiration                            691.50
-!     Potential ET                            1951.25
+!     Runoff                                    85.40
+!     Mulch evaporation                          6.69
+!     Soil Evaporation                         631.67
+!     Transpiration                            432.00
+!     Potential ET                            1507.53
 
 !     Initial mulch water content                0.00
-!     Final mulch water content                  0.36
+!     Final mulch water content                  0.24
 
-!     Final Balance                            -0.005
+!     Final Balance                          4175.897
 
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:10
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:41
 
-*RUN  19        : TMEB419                   CSYCA048 UYZA1901    5
+*RUN  20        : IITA-TMS-IBA000070        CSYCA048 UYZA1901    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYZA1901 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
 !     WATER BALANCE PARAMETERS
 !     ========================                 --mm--
 
-!     Soil H20 (start) on Year/day 2019/169    386.50
-!     Soil H20 (final) on Year/day 2020/209    375.83
-!     Effective Irrigation                     368.62
-!     Precipitation                           2092.30
-!     Water added with new mulch                 0.17
-!     Drainage                                 637.38
+!     Soil H20 (start) on Year/day 2019/173    450.80
+!     Soil H20 (final) on Year/day 2020/216    588.04
+!     Effective Irrigation                    4175.90
+!     Precipitation                           2492.60
+!     Water added with new mulch                 0.15
+!     Drainage                                 692.81
 !     Tiledrain flow                             0.00
-!     Runoff                                   383.99
-!     Mulch evaporation                         12.82
-!     Soil Evaporation                         745.72
-!     Transpiration                            691.50
-!     Potential ET                            1951.25
+!     Runoff                                   257.90
+!     Mulch evaporation                          9.20
+!     Soil Evaporation                         742.98
+!     Transpiration                            652.34
+!     Potential ET                            2023.21
 
 !     Initial mulch water content                0.00
-!     Final mulch water content                  0.36
+!     Final mulch water content                  0.29
 
-!     Final Balance                            -0.005
+!     Final Balance                          4175.887
 

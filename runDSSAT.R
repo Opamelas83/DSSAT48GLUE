@@ -1,6 +1,6 @@
 options(DSSAT.CSM = 'dscsm048')
 
-write_dssbatch("UYAB1901.CSX", trtno = 1:67)
+write_dssbatch("UYIB1701.CSX", trtno = 1:33)
 
 
 

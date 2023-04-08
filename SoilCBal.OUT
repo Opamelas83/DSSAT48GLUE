@@ -1,552 +1,175 @@
 *Soil Carbon Balance
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:05
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:37
 
-*RUN   1        : TMEB419                   CSYCA048 UYAB1901    5
- MODEL          : CSYCA048 - Cassava
- EXPERIMENT     : UYAB1901 CS UYT_GXE
- DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
-  
-
-!                                                 Initial               Final
-!                                                Year/DOY            Year/DOY
-!                                                2019-168            2019-168
-! SOIL C BALANCE                                 --------- kg[C]/ha ---------
-!  SOIL & SURFACE ORGANIC C
-!   Soil Organic C                               93798.50            92357.90
-!   Surface Organic C                                0.00                0.00
-!   Soil Litter C                                    0.00              282.25
-!   Surface Litter C                                 0.00              510.55
-!                                                --------            --------
-!   Total C in Soil and Surface Layers           93798.50            93150.70
-!  ADDITIONS AND REMOVALS:
-!   C in Harvest Residues from Previous              0.00
-!   C from Organic Applications                      0.00
-!   C in returned senesced material                792.80
-!   CO2-C emitted                                                     1440.62
-!                                                --------            --------
-! TOTAL C BALANCE                                94591.30            94591.31
-!   Balance                                                             0.019
-
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:06
-
-*RUN   2        : TMEB419                   CSYCA048 UYAG1701    5
+*RUN   2        : IITA-TMS-IBA000070        CSYCA048 UYAG1701    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYAG1701 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
 !                                                 Initial               Final
 !                                                Year/DOY            Year/DOY
-!                                                2019-168            2019-168
+!                                                2017-240            2017-240
 ! SOIL C BALANCE                                 --------- kg[C]/ha ---------
 !  SOIL & SURFACE ORGANIC C
-!   Soil Organic C                               93798.50            92357.90
+!   Soil Organic C                              203050.50           201086.89
 !   Surface Organic C                                0.00                0.00
-!   Soil Litter C                                    0.00              282.25
-!   Surface Litter C                                 0.00              510.55
+!   Soil Litter C                                    0.00              288.20
+!   Surface Litter C                                 0.00              332.34
 !                                                --------            --------
-!   Total C in Soil and Surface Layers           93798.50            93150.70
+!   Total C in Soil and Surface Layers          203050.50           201707.44
 !  ADDITIONS AND REMOVALS:
 !   C in Harvest Residues from Previous              0.00
 !   C from Organic Applications                      0.00
-!   C in returned senesced material                792.80
-!   CO2-C emitted                                                     1440.62
+!   C in returned senesced material                620.54
+!   CO2-C emitted                                                     1963.54
 !                                                --------            --------
-! TOTAL C BALANCE                                94591.30            94591.31
-!   Balance                                                             0.019
+! TOTAL C BALANCE                               203671.05           203670.98
+!   Balance                                                            -0.062
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:06
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:39
 
-*RUN   3        : TMEB419                   CSYCA048 UYAG1801    5
+*RUN   8        : IITA-TMS-IBA000070        CSYCA048 UYIB2001    1
  MODEL          : CSYCA048 - Cassava
- EXPERIMENT     : UYAG1801 CS UYT_GXE
+ EXPERIMENT     : UYIB2001 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
 !                                                 Initial               Final
 !                                                Year/DOY            Year/DOY
-!                                                2019-168            2019-168
+!                                                2020-134            2020-134
 ! SOIL C BALANCE                                 --------- kg[C]/ha ---------
 !  SOIL & SURFACE ORGANIC C
-!   Soil Organic C                               93798.50            92357.90
+!   Soil Organic C                              109485.50           107636.39
 !   Surface Organic C                                0.00                0.00
-!   Soil Litter C                                    0.00              282.25
-!   Surface Litter C                                 0.00              510.55
+!   Soil Litter C                                    0.00              322.24
+!   Surface Litter C                                 0.00              368.60
 !                                                --------            --------
-!   Total C in Soil and Surface Layers           93798.50            93150.70
+!   Total C in Soil and Surface Layers          109485.50           108327.22
 !  ADDITIONS AND REMOVALS:
 !   C in Harvest Residues from Previous              0.00
 !   C from Organic Applications                      0.00
-!   C in returned senesced material                792.80
-!   CO2-C emitted                                                     1440.62
+!   C in returned senesced material                690.83
+!   CO2-C emitted                                                     1849.10
 !                                                --------            --------
-! TOTAL C BALANCE                                94591.30            94591.31
-!   Balance                                                             0.019
+! TOTAL C BALANCE                               110176.34           110176.32
+!   Balance                                                            -0.018
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:06
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:39
 
-*RUN   4        : TMEB419                   CSYCA048 UYAG1901    5
- MODEL          : CSYCA048 - Cassava
- EXPERIMENT     : UYAG1901 CS UYT_GXE
- DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
-  
-
-!                                                 Initial               Final
-!                                                Year/DOY            Year/DOY
-!                                                2019-168            2019-168
-! SOIL C BALANCE                                 --------- kg[C]/ha ---------
-!  SOIL & SURFACE ORGANIC C
-!   Soil Organic C                               93798.50            92357.90
-!   Surface Organic C                                0.00                0.00
-!   Soil Litter C                                    0.00              282.25
-!   Surface Litter C                                 0.00              510.55
-!                                                --------            --------
-!   Total C in Soil and Surface Layers           93798.50            93150.70
-!  ADDITIONS AND REMOVALS:
-!   C in Harvest Residues from Previous              0.00
-!   C from Organic Applications                      0.00
-!   C in returned senesced material                792.80
-!   CO2-C emitted                                                     1440.62
-!                                                --------            --------
-! TOTAL C BALANCE                                94591.30            94591.31
-!   Balance                                                             0.019
-
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:06
-
-*RUN   5        : TMEB419                   CSYCA048 UYIB1801    5
- MODEL          : CSYCA048 - Cassava
- EXPERIMENT     : UYIB1801 CS UYT_GXE
- DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
-  
-
-!                                                 Initial               Final
-!                                                Year/DOY            Year/DOY
-!                                                2019-168            2019-168
-! SOIL C BALANCE                                 --------- kg[C]/ha ---------
-!  SOIL & SURFACE ORGANIC C
-!   Soil Organic C                               93798.50            92357.90
-!   Surface Organic C                                0.00                0.00
-!   Soil Litter C                                    0.00              282.25
-!   Surface Litter C                                 0.00              510.55
-!                                                --------            --------
-!   Total C in Soil and Surface Layers           93798.50            93150.70
-!  ADDITIONS AND REMOVALS:
-!   C in Harvest Residues from Previous              0.00
-!   C from Organic Applications                      0.00
-!   C in returned senesced material                792.80
-!   CO2-C emitted                                                     1440.62
-!                                                --------            --------
-! TOTAL C BALANCE                                94591.30            94591.31
-!   Balance                                                             0.019
-
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:07
-
-*RUN   6        : TMEB419                   CSYCA048 UYIB1901    5
- MODEL          : CSYCA048 - Cassava
- EXPERIMENT     : UYIB1901 CS UYT_GXE
- DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
-  
-
-!                                                 Initial               Final
-!                                                Year/DOY            Year/DOY
-!                                                2019-168            2019-168
-! SOIL C BALANCE                                 --------- kg[C]/ha ---------
-!  SOIL & SURFACE ORGANIC C
-!   Soil Organic C                               93798.50            92357.90
-!   Surface Organic C                                0.00                0.00
-!   Soil Litter C                                    0.00              282.25
-!   Surface Litter C                                 0.00              510.55
-!                                                --------            --------
-!   Total C in Soil and Surface Layers           93798.50            93150.70
-!  ADDITIONS AND REMOVALS:
-!   C in Harvest Residues from Previous              0.00
-!   C from Organic Applications                      0.00
-!   C in returned senesced material                792.80
-!   CO2-C emitted                                                     1440.62
-!                                                --------            --------
-! TOTAL C BALANCE                                94591.30            94591.31
-!   Balance                                                             0.019
-
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:07
-
-*RUN   7        : TMEB419                   CSYCA048 UYIK1701    5
- MODEL          : CSYCA048 - Cassava
- EXPERIMENT     : UYIK1701 CS UYT_GXE
- DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
-  
-
-!                                                 Initial               Final
-!                                                Year/DOY            Year/DOY
-!                                                2019-168            2019-168
-! SOIL C BALANCE                                 --------- kg[C]/ha ---------
-!  SOIL & SURFACE ORGANIC C
-!   Soil Organic C                               93798.50            92357.90
-!   Surface Organic C                                0.00                0.00
-!   Soil Litter C                                    0.00              282.25
-!   Surface Litter C                                 0.00              510.55
-!                                                --------            --------
-!   Total C in Soil and Surface Layers           93798.50            93150.70
-!  ADDITIONS AND REMOVALS:
-!   C in Harvest Residues from Previous              0.00
-!   C from Organic Applications                      0.00
-!   C in returned senesced material                792.80
-!   CO2-C emitted                                                     1440.62
-!                                                --------            --------
-! TOTAL C BALANCE                                94591.30            94591.31
-!   Balance                                                             0.019
-
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:07
-
-*RUN   8        : TMEB419                   CSYCA048 UYIK1801    5
- MODEL          : CSYCA048 - Cassava
- EXPERIMENT     : UYIK1801 CS UYT_GXE
- DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
-  
-
-!                                                 Initial               Final
-!                                                Year/DOY            Year/DOY
-!                                                2019-168            2019-168
-! SOIL C BALANCE                                 --------- kg[C]/ha ---------
-!  SOIL & SURFACE ORGANIC C
-!   Soil Organic C                               93798.50            92357.90
-!   Surface Organic C                                0.00                0.00
-!   Soil Litter C                                    0.00              282.25
-!   Surface Litter C                                 0.00              510.55
-!                                                --------            --------
-!   Total C in Soil and Surface Layers           93798.50            93150.70
-!  ADDITIONS AND REMOVALS:
-!   C in Harvest Residues from Previous              0.00
-!   C from Organic Applications                      0.00
-!   C in returned senesced material                792.80
-!   CO2-C emitted                                                     1440.62
-!                                                --------            --------
-! TOTAL C BALANCE                                94591.30            94591.31
-!   Balance                                                             0.019
-
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:07
-
-*RUN   9        : TMEB419                   CSYCA048 UYIK1901    5
- MODEL          : CSYCA048 - Cassava
- EXPERIMENT     : UYIK1901 CS UYT_GXE
- DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
-  
-
-!                                                 Initial               Final
-!                                                Year/DOY            Year/DOY
-!                                                2019-168            2019-168
-! SOIL C BALANCE                                 --------- kg[C]/ha ---------
-!  SOIL & SURFACE ORGANIC C
-!   Soil Organic C                               93798.50            92357.90
-!   Surface Organic C                                0.00                0.00
-!   Soil Litter C                                    0.00              282.25
-!   Surface Litter C                                 0.00              510.55
-!                                                --------            --------
-!   Total C in Soil and Surface Layers           93798.50            93150.70
-!  ADDITIONS AND REMOVALS:
-!   C in Harvest Residues from Previous              0.00
-!   C from Organic Applications                      0.00
-!   C in returned senesced material                792.80
-!   CO2-C emitted                                                     1440.62
-!                                                --------            --------
-! TOTAL C BALANCE                                94591.30            94591.31
-!   Balance                                                             0.019
-
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:08
-
-*RUN  10        : TMEB419                   CSYCA048 UYKA1801    5
+*RUN  12        : IITA-TMS-IBA000070        CSYCA048 UYKA1801    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYKA1801 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
 !                                                 Initial               Final
 !                                                Year/DOY            Year/DOY
-!                                                2019-168            2019-168
+!                                                2018-195            2018-195
 ! SOIL C BALANCE                                 --------- kg[C]/ha ---------
 !  SOIL & SURFACE ORGANIC C
-!   Soil Organic C                               93798.50            92357.90
+!   Soil Organic C                              129158.00           126311.09
 !   Surface Organic C                                0.00                0.00
-!   Soil Litter C                                    0.00              282.25
-!   Surface Litter C                                 0.00              510.55
+!   Soil Litter C                                    0.00              375.46
+!   Surface Litter C                                 0.00              430.13
 !                                                --------            --------
-!   Total C in Soil and Surface Layers           93798.50            93150.70
+!   Total C in Soil and Surface Layers          129158.00           127116.68
 !  ADDITIONS AND REMOVALS:
 !   C in Harvest Residues from Previous              0.00
 !   C from Organic Applications                      0.00
-!   C in returned senesced material                792.80
-!   CO2-C emitted                                                     1440.62
+!   C in returned senesced material                805.60
+!   CO2-C emitted                                                     2846.93
 !                                                --------            --------
-! TOTAL C BALANCE                                94591.30            94591.31
-!   Balance                                                             0.019
+! TOTAL C BALANCE                               129963.59           129963.61
+!   Balance                                                             0.016
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:08
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:40
 
-*RUN  11        : TMEB419                   CSYCA048 UYMO1701    5
- MODEL          : CSYCA048 - Cassava
- EXPERIMENT     : UYMO1701 CS UYT_GXE
- DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
-  
-
-!                                                 Initial               Final
-!                                                Year/DOY            Year/DOY
-!                                                2019-168            2019-168
-! SOIL C BALANCE                                 --------- kg[C]/ha ---------
-!  SOIL & SURFACE ORGANIC C
-!   Soil Organic C                               93798.50            92357.90
-!   Surface Organic C                                0.00                0.00
-!   Soil Litter C                                    0.00              282.25
-!   Surface Litter C                                 0.00              510.55
-!                                                --------            --------
-!   Total C in Soil and Surface Layers           93798.50            93150.70
-!  ADDITIONS AND REMOVALS:
-!   C in Harvest Residues from Previous              0.00
-!   C from Organic Applications                      0.00
-!   C in returned senesced material                792.80
-!   CO2-C emitted                                                     1440.62
-!                                                --------            --------
-! TOTAL C BALANCE                                94591.30            94591.31
-!   Balance                                                             0.019
-
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:08
-
-*RUN  12        : TMEB419                   CSYCA048 UYMO1801    5
+*RUN  14        : IITA-TMS-IBA000070        CSYCA048 UYMO1801    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYMO1801 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
 !                                                 Initial               Final
 !                                                Year/DOY            Year/DOY
-!                                                2019-168            2019-168
+!                                                2018-163            2018-163
 ! SOIL C BALANCE                                 --------- kg[C]/ha ---------
 !  SOIL & SURFACE ORGANIC C
-!   Soil Organic C                               93798.50            92357.90
+!   Soil Organic C                              134089.00           131903.22
 !   Surface Organic C                                0.00                0.00
-!   Soil Litter C                                    0.00              282.25
-!   Surface Litter C                                 0.00              510.55
+!   Soil Litter C                                    0.00              352.85
+!   Surface Litter C                                 0.00              335.36
 !                                                --------            --------
-!   Total C in Soil and Surface Layers           93798.50            93150.70
+!   Total C in Soil and Surface Layers          134089.00           132591.42
 !  ADDITIONS AND REMOVALS:
 !   C in Harvest Residues from Previous              0.00
 !   C from Organic Applications                      0.00
-!   C in returned senesced material                792.80
-!   CO2-C emitted                                                     1440.62
+!   C in returned senesced material                688.21
+!   CO2-C emitted                                                     2185.78
 !                                                --------            --------
-! TOTAL C BALANCE                                94591.30            94591.31
-!   Balance                                                             0.019
+! TOTAL C BALANCE                               134777.22           134777.20
+!   Balance                                                            -0.015
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:08
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:40
 
-*RUN  13        : TMEB419                   CSYCA048 UYMO1901    5
- MODEL          : CSYCA048 - Cassava
- EXPERIMENT     : UYMO1901 CS UYT_GXE
- DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
-  
-
-!                                                 Initial               Final
-!                                                Year/DOY            Year/DOY
-!                                                2019-168            2019-168
-! SOIL C BALANCE                                 --------- kg[C]/ha ---------
-!  SOIL & SURFACE ORGANIC C
-!   Soil Organic C                               93798.50            92357.90
-!   Surface Organic C                                0.00                0.00
-!   Soil Litter C                                    0.00              282.25
-!   Surface Litter C                                 0.00              510.55
-!                                                --------            --------
-!   Total C in Soil and Surface Layers           93798.50            93150.70
-!  ADDITIONS AND REMOVALS:
-!   C in Harvest Residues from Previous              0.00
-!   C from Organic Applications                      0.00
-!   C in returned senesced material                792.80
-!   CO2-C emitted                                                     1440.62
-!                                                --------            --------
-! TOTAL C BALANCE                                94591.30            94591.31
-!   Balance                                                             0.019
-
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:08
-
-*RUN  14        : TMEB419                   CSYCA048 UYON1801    5
- MODEL          : CSYCA048 - Cassava
- EXPERIMENT     : UYON1801 CS UYT_GXE
- DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
-  
-
-!                                                 Initial               Final
-!                                                Year/DOY            Year/DOY
-!                                                2019-168            2019-168
-! SOIL C BALANCE                                 --------- kg[C]/ha ---------
-!  SOIL & SURFACE ORGANIC C
-!   Soil Organic C                               93798.50            92357.90
-!   Surface Organic C                                0.00                0.00
-!   Soil Litter C                                    0.00              282.25
-!   Surface Litter C                                 0.00              510.55
-!                                                --------            --------
-!   Total C in Soil and Surface Layers           93798.50            93150.70
-!  ADDITIONS AND REMOVALS:
-!   C in Harvest Residues from Previous              0.00
-!   C from Organic Applications                      0.00
-!   C in returned senesced material                792.80
-!   CO2-C emitted                                                     1440.62
-!                                                --------            --------
-! TOTAL C BALANCE                                94591.30            94591.31
-!   Balance                                                             0.019
-
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:09
-
-*RUN  15        : TMEB419                   CSYCA048 UYON1901    5
- MODEL          : CSYCA048 - Cassava
- EXPERIMENT     : UYON1901 CS UYT_GXE
- DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
-  
-
-!                                                 Initial               Final
-!                                                Year/DOY            Year/DOY
-!                                                2019-168            2019-168
-! SOIL C BALANCE                                 --------- kg[C]/ha ---------
-!  SOIL & SURFACE ORGANIC C
-!   Soil Organic C                               93798.50            92357.90
-!   Surface Organic C                                0.00                0.00
-!   Soil Litter C                                    0.00              282.25
-!   Surface Litter C                                 0.00              510.55
-!                                                --------            --------
-!   Total C in Soil and Surface Layers           93798.50            93150.70
-!  ADDITIONS AND REMOVALS:
-!   C in Harvest Residues from Previous              0.00
-!   C from Organic Applications                      0.00
-!   C in returned senesced material                792.80
-!   CO2-C emitted                                                     1440.62
-!                                                --------            --------
-! TOTAL C BALANCE                                94591.30            94591.31
-!   Balance                                                             0.019
-
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:09
-
-*RUN  16        : TMEB419                   CSYCA048 UYOT1801    5
+*RUN  17        : IITA-TMS-IBA000070        CSYCA048 UYOT1801    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYOT1801 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
 !                                                 Initial               Final
 !                                                Year/DOY            Year/DOY
-!                                                2019-168            2019-168
+!                                                2018-197            2018-197
 ! SOIL C BALANCE                                 --------- kg[C]/ha ---------
 !  SOIL & SURFACE ORGANIC C
-!   Soil Organic C                               93798.50            92357.90
+!   Soil Organic C                               40729.50            40122.77
 !   Surface Organic C                                0.00                0.00
-!   Soil Litter C                                    0.00              282.25
-!   Surface Litter C                                 0.00              510.55
+!   Soil Litter C                                    0.00              383.97
+!   Surface Litter C                                 0.00              446.59
 !                                                --------            --------
-!   Total C in Soil and Surface Layers           93798.50            93150.70
+!   Total C in Soil and Surface Layers           40729.50            40953.32
 !  ADDITIONS AND REMOVALS:
 !   C in Harvest Residues from Previous              0.00
 !   C from Organic Applications                      0.00
-!   C in returned senesced material                792.80
-!   CO2-C emitted                                                     1440.62
+!   C in returned senesced material                830.55
+!   CO2-C emitted                                                      606.72
 !                                                --------            --------
-! TOTAL C BALANCE                                94591.30            94591.31
-!   Balance                                                             0.019
+! TOTAL C BALANCE                                41560.05            41560.04
+!   Balance                                                            -0.008
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:09
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:41
 
-*RUN  17        : TMEB419                   CSYCA048 UYUB1901    5
- MODEL          : CSYCA048 - Cassava
- EXPERIMENT     : UYUB1901 CS UYT_GXE
- DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
-  
-
-!                                                 Initial               Final
-!                                                Year/DOY            Year/DOY
-!                                                2019-168            2019-168
-! SOIL C BALANCE                                 --------- kg[C]/ha ---------
-!  SOIL & SURFACE ORGANIC C
-!   Soil Organic C                               93798.50            92357.90
-!   Surface Organic C                                0.00                0.00
-!   Soil Litter C                                    0.00              282.25
-!   Surface Litter C                                 0.00              510.55
-!                                                --------            --------
-!   Total C in Soil and Surface Layers           93798.50            93150.70
-!  ADDITIONS AND REMOVALS:
-!   C in Harvest Residues from Previous              0.00
-!   C from Organic Applications                      0.00
-!   C in returned senesced material                792.80
-!   CO2-C emitted                                                     1440.62
-!                                                --------            --------
-! TOTAL C BALANCE                                94591.30            94591.31
-!   Balance                                                             0.019
-
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:09
-
-*RUN  18        : TMEB419                   CSYCA048 UYUM1801    5
+*RUN  19        : IITA-TMS-IBA000070        CSYCA048 UYUM1801    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYUM1801 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
 !                                                 Initial               Final
 !                                                Year/DOY            Year/DOY
-!                                                2019-168            2019-168
+!                                                2018-207            2018-207
 ! SOIL C BALANCE                                 --------- kg[C]/ha ---------
 !  SOIL & SURFACE ORGANIC C
-!   Soil Organic C                               93798.50            92357.90
+!   Soil Organic C                              171440.00           169203.81
 !   Surface Organic C                                0.00                0.00
-!   Soil Litter C                                    0.00              282.25
-!   Surface Litter C                                 0.00              510.55
+!   Soil Litter C                                    0.00              357.16
+!   Surface Litter C                                 0.00              360.25
 !                                                --------            --------
-!   Total C in Soil and Surface Layers           93798.50            93150.70
+!   Total C in Soil and Surface Layers          171440.00           169921.22
 !  ADDITIONS AND REMOVALS:
 !   C in Harvest Residues from Previous              0.00
 !   C from Organic Applications                      0.00
-!   C in returned senesced material                792.80
-!   CO2-C emitted                                                     1440.62
+!   C in returned senesced material                717.42
+!   CO2-C emitted                                                     2236.17
 !                                                --------            --------
-! TOTAL C BALANCE                                94591.30            94591.31
-!   Balance                                                             0.019
-
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:10
-
-*RUN  19        : TMEB419                   CSYCA048 UYZA1901    5
- MODEL          : CSYCA048 - Cassava
- EXPERIMENT     : UYZA1901 CS UYT_GXE
- DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
-  
-
-!                                                 Initial               Final
-!                                                Year/DOY            Year/DOY
-!                                                2019-168            2019-168
-! SOIL C BALANCE                                 --------- kg[C]/ha ---------
-!  SOIL & SURFACE ORGANIC C
-!   Soil Organic C                               93798.50            92357.90
-!   Surface Organic C                                0.00                0.00
-!   Soil Litter C                                    0.00              282.25
-!   Surface Litter C                                 0.00              510.55
-!                                                --------            --------
-!   Total C in Soil and Surface Layers           93798.50            93150.70
-!  ADDITIONS AND REMOVALS:
-!   C in Harvest Residues from Previous              0.00
-!   C from Organic Applications                      0.00
-!   C in returned senesced material                792.80
-!   CO2-C emitted                                                     1440.62
-!                                                --------            --------
-! TOTAL C BALANCE                                94591.30            94591.31
-!   Balance                                                             0.019
+! TOTAL C BALANCE                               172157.42           172157.39
+!   Balance                                                            -0.028

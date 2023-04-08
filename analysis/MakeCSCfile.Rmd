@@ -26,7 +26,7 @@ library(tidyverse)
  
 Make my Culf a part of the original "UYAB1901.CSX" file.
 ```{r}
-Culf <- read.table("UYUB1901.CSX", skip = 81, header = T, nrows = 67, sep = "")
+Culf <- read.table("UYON1801.CSX", skip = 81, header = T, nrows = 67, sep = "")
 #Varieties <- Varieties$CNAME
 #head(Varieties)
 #CulfTest <- read_lines(Varieties)
@@ -80,7 +80,7 @@ for(i in Culf$CNAME) {
     CSCFile <- read_lines(here::here("data/DSSATtempfile", template))
     fileName <- makeFileName(Culf[Culf$CNAME%in%Variety, ])
     FileID <- makeCulID (Culf[Culf$CNAME%in%Variety, ])
-    CSCFile <- gsub("CSUC0024 TMEB419", FileID, CSCFile, fixed=T)#write the new cultivar ID in my CSC File
+    CSCFile <- gsub("CSUC0024 TMEB419", paste0("CS", FileID), CSCFile, fixed=T)#write the new cultivar ID in my CSC File
     CSCTrialInfo <- CSCFile[1:2]
     for(x in TrialList){
       Trial <- read_lines(x)
@@ -98,6 +98,6 @@ for(i in Culf$CNAME) {
     }
     
     myfile <- here::here("data", "CSfile", paste0(fileName, ".CSC"))
-    write_lines(x = CSCTrialInfo, file = myfile, append=T)
+    write_lines(x = CSCTrialInfo, file = myfile, append=F)
 }
 ```

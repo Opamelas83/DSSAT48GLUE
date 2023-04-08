@@ -2,266 +2,294 @@
 
 ******************************************************************************
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:05
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:37
 
-*RUN   1        : TMEB419                   CSYCA048 UYAB1901    5
+*RUN   1        : IITA-TMS-IBA000070        CSYCA048 UYAB1901    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYAB1901 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
- CSYCA  YEAR DOY = 2019 169
+ CSYCA  YEAR DOY = 2019 168
+  Plants per hill <= 0.0 at  -99.0  Reset to 1.0                               
+
+ CSYCA  YEAR DOY = 2019 168
+  Planting stick length <= 00   Changed to 25.0 cm                             
+
+ CSYCA  YEAR DOY = 2019 168
    NO reserve CH2O included in the wt of leaves,stems,and Plant. stick.        
 
 ******************************************************************************
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:06
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:37
 
-*RUN   2        : TMEB419                   CSYCA048 UYAG1701    5
+*RUN   2        : IITA-TMS-IBA000070        CSYCA048 UYAG1701    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYAG1701 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
- CSYCA  YEAR DOY = 2019 169
+ CSYCA  YEAR DOY = 2017 241
    NO reserve CH2O included in the wt of leaves,stems,and Plant. stick.        
 
 ******************************************************************************
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:06
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:38
 
-*RUN   3        : TMEB419                   CSYCA048 UYAG1801    5
+*RUN   3        : IITA-TMS-IBA000070        CSYCA048 UYAG1801    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYAG1801 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
- CSYCA  YEAR DOY = 2019 169
+ CSYCA  YEAR DOY = 2018 171
    NO reserve CH2O included in the wt of leaves,stems,and Plant. stick.        
 
 ******************************************************************************
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:06
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:38
 
-*RUN   4        : TMEB419                   CSYCA048 UYAG1901    5
+*RUN   4        : IITA-TMS-IBA000070        CSYCA048 UYAG1901    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYAG1901 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
- CSYCA  YEAR DOY = 2019 169
+ CSYCA  YEAR DOY = 2019 150
    NO reserve CH2O included in the wt of leaves,stems,and Plant. stick.        
 
 ******************************************************************************
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:06
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:38
 
-*RUN   5        : TMEB419                   CSYCA048 UYIB1801    5
+*RUN   5        : IITA-TMS-IBA000070        CSYCA048 UYIB1701    1
+ MODEL          : CSYCA048 - Cassava
+ EXPERIMENT     : UYIB1701 CS UYT_GXE
+ DATA PATH      :
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
+  
+
+ CSYCA  YEAR DOY = 2017 250
+   NO reserve CH2O included in the wt of leaves,stems,and Plant. stick.        
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:38
+
+*RUN   6        : IITA-TMS-IBA000070        CSYCA048 UYIB1801    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYIB1801 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
- CSYCA  YEAR DOY = 2019 169
+ CSYCA  YEAR DOY = 2018 250
    NO reserve CH2O included in the wt of leaves,stems,and Plant. stick.        
 
 ******************************************************************************
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:07
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:39
 
-*RUN   6        : TMEB419                   CSYCA048 UYIB1901    5
+*RUN   7        : IITA-TMS-IBA000070        CSYCA048 UYIB1901    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYIB1901 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
- CSYCA  YEAR DOY = 2019 169
+ CSYCA  YEAR DOY = 2019 134
    NO reserve CH2O included in the wt of leaves,stems,and Plant. stick.        
 
 ******************************************************************************
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:07
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:39
 
-*RUN   7        : TMEB419                   CSYCA048 UYIK1701    5
+*RUN   8        : IITA-TMS-IBA000070        CSYCA048 UYIB2001    1
+ MODEL          : CSYCA048 - Cassava
+ EXPERIMENT     : UYIB2001 CS UYT_GXE
+ DATA PATH      :
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
+  
+
+ CSYCA  YEAR DOY = 2020 135
+   NO reserve CH2O included in the wt of leaves,stems,and Plant. stick.        
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:39
+
+*RUN   9        : IITA-TMS-IBA000070        CSYCA048 UYIK1701    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYIK1701 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
- CSYCA  YEAR DOY = 2019 169
+ CSYCA  YEAR DOY = 2017 235
    NO reserve CH2O included in the wt of leaves,stems,and Plant. stick.        
 
 ******************************************************************************
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:07
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:39
 
-*RUN   8        : TMEB419                   CSYCA048 UYIK1801    5
+*RUN  10        : IITA-TMS-IBA000070        CSYCA048 UYIK1801    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYIK1801 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
- CSYCA  YEAR DOY = 2019 169
+ CSYCA  YEAR DOY = 2018 167
    NO reserve CH2O included in the wt of leaves,stems,and Plant. stick.        
 
 ******************************************************************************
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:07
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:39
 
-*RUN   9        : TMEB419                   CSYCA048 UYIK1901    5
+*RUN  11        : IITA-TMS-IBA000070        CSYCA048 UYIK1901    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYIK1901 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
- CSYCA  YEAR DOY = 2019 169
+ CSYCA  YEAR DOY = 2019 151
    NO reserve CH2O included in the wt of leaves,stems,and Plant. stick.        
 
 ******************************************************************************
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:08
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:39
 
-*RUN  10        : TMEB419                   CSYCA048 UYKA1801    5
+*RUN  12        : IITA-TMS-IBA000070        CSYCA048 UYKA1801    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYKA1801 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
- CSYCA  YEAR DOY = 2019 169
+ CSYCA  YEAR DOY = 2018 196
    NO reserve CH2O included in the wt of leaves,stems,and Plant. stick.        
 
 ******************************************************************************
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:08
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:40
 
-*RUN  11        : TMEB419                   CSYCA048 UYMO1701    5
+*RUN  13        : IITA-TMS-IBA000070        CSYCA048 UYMO1701    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYMO1701 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
- CSYCA  YEAR DOY = 2019 169
+ CSYCA  YEAR DOY = 2017 232
    NO reserve CH2O included in the wt of leaves,stems,and Plant. stick.        
 
 ******************************************************************************
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:08
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:40
 
-*RUN  12        : TMEB419                   CSYCA048 UYMO1801    5
+*RUN  14        : IITA-TMS-IBA000070        CSYCA048 UYMO1801    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYMO1801 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
- CSYCA  YEAR DOY = 2019 169
+ CSYCA  YEAR DOY = 2018 164
    NO reserve CH2O included in the wt of leaves,stems,and Plant. stick.        
 
 ******************************************************************************
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:08
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:40
 
-*RUN  13        : TMEB419                   CSYCA048 UYMO1901    5
+*RUN  15        : IITA-TMS-IBA000070        CSYCA048 UYMO1901    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYMO1901 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
- CSYCA  YEAR DOY = 2019 169
+ CSYCA  YEAR DOY = 2019 176
    NO reserve CH2O included in the wt of leaves,stems,and Plant. stick.        
 
 ******************************************************************************
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:08
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:40
 
-*RUN  14        : TMEB419                   CSYCA048 UYON1801    5
+*RUN  16        : IITA-TMS-IBA000070        CSYCA048 UYON1801    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYON1801 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
- CSYCA  YEAR DOY = 2019 169
+ CSYCA  YEAR DOY = 2018 116
    NO reserve CH2O included in the wt of leaves,stems,and Plant. stick.        
 
 ******************************************************************************
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:09
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:40
 
-*RUN  15        : TMEB419                   CSYCA048 UYON1901    5
- MODEL          : CSYCA048 - Cassava
- EXPERIMENT     : UYON1901 CS UYT_GXE
- DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
-  
-
- CSYCA  YEAR DOY = 2019 169
-   NO reserve CH2O included in the wt of leaves,stems,and Plant. stick.        
-
-******************************************************************************
-
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:09
-
-*RUN  16        : TMEB419                   CSYCA048 UYOT1801    5
+*RUN  17        : IITA-TMS-IBA000070        CSYCA048 UYOT1801    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYOT1801 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
- CSYCA  YEAR DOY = 2019 169
+ SOILDYN  YEAR DOY = 2018 198
+ Surface runoff curve number has been changed from   5.0 to  25.0.             
+
+ SOILDYN  YEAR DOY = 2018 198
+ The pH of one or more soil layers at initialization                           
+ was outside the range pH=1-10, which is unlikely.                             
+ It was set by DSSAT to pH=7.                                                  
+
+ CSYCA  YEAR DOY = 2018 198
    NO reserve CH2O included in the wt of leaves,stems,and Plant. stick.        
 
 ******************************************************************************
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:09
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:41
 
-*RUN  17        : TMEB419                   CSYCA048 UYUB1901    5
+*RUN  18        : IITA-TMS-IBA000070        CSYCA048 UYUB1901    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYUB1901 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
- CSYCA  YEAR DOY = 2019 169
+ CSYCA  YEAR DOY = 2019 150
    NO reserve CH2O included in the wt of leaves,stems,and Plant. stick.        
 
 ******************************************************************************
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:09
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:41
 
-*RUN  18        : TMEB419                   CSYCA048 UYUM1801    5
+*RUN  19        : IITA-TMS-IBA000070        CSYCA048 UYUM1801    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYUM1801 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
- CSYCA  YEAR DOY = 2019 169
+ CSYCA  YEAR DOY = 2018 208
    NO reserve CH2O included in the wt of leaves,stems,and Plant. stick.        
 
 ******************************************************************************
 
-*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  JAN 07, 2022 20:10:10
+*DSSAT Cropping System Model Ver. 4.8.0.019 -develop  APR 08, 2023 12:34:41
 
-*RUN  19        : TMEB419                   CSYCA048 UYZA1901    5
+*RUN  20        : IITA-TMS-IBA000070        CSYCA048 UYZA1901    1
  MODEL          : CSYCA048 - Cassava
  EXPERIMENT     : UYZA1901 CS UYT_GXE
  DATA PATH      :
- TREATMENT  5   : TMEB419                   CSYCA048
+ TREATMENT  1   : IITA-TMS-IBA000070        CSYCA048
   
 
- CSYCA  YEAR DOY = 2019 169
+ CSYCA  YEAR DOY = 2019 173
    NO reserve CH2O included in the wt of leaves,stems,and Plant. stick.        
